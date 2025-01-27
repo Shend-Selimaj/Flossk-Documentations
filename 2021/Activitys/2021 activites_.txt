@@ -1,0 +1,86 @@
+﻿ Edit-a-thon on Transitional Justice in Kosovo
+Type: Activity
+ Date: December 14, 2021 (Training); December 18, 2021 (Edit-a-thon)
+ Location: Prishtina Hackerspace
+ Topic: Transitional Justice in Kosovo
+ Details:
+ This Edit-a-thon was dedicated to creating and improving articles about war crimes from Kosovo’s recent history. It aimed to engage students, lawyers, historians, activists, and experts in a collaborative effort to document transitional justice topics on Wikipedia.
+● Training Session: Held online on December 14, from 18:00 to 20:00, it offered a step-by-step guide to Wikipedia editing, accessible to both beginners and experienced participants.
+● Edit-a-thon: Took place in-person at Prishtina Hackerspace on December 18, fostering teamwork and the exchange of knowledge among participants. Registration was open through an online form, ensuring inclusivity and enthusiasm-driven participation.
+
+Prishtina InfoSec Meetup - Winter Security
+Type: Activity
+ Date: December 15, 2021
+ Location: Prishtina Hackerspace
+ Speakers:
+● Kastriot Fetahaj: Presentation on creating a keyboard keylogger.
+● Meridian Miftari: OWASP Mobile Top 10 Risks with practical demonstrations using Corellium.
+● Dardan Prebreza: Red Teaming Methodology with a hands-on demonstration of Sliver.
+ Details:
+ This meetup, held on December 15 at 18:00, provided an interactive forum for discussing key information security challenges during the winter season. The event combined technical demonstrations and strategic insights, empowering attendees to understand and address real-world security threats.
+
+TechCamp Kosovo 2021
+Type: Activity
+ Date: October 28-30, 2021
+ Location: Prishtina
+ Speakers:
+● Douglas Arellanes
+● Kristin Lord
+ Topic: Countering Disinformation in the Balkans
+ Details:
+ TechCamp Kosovo 2021 brought together 25 local and 20 regional participants to combat disinformation through innovative solutions. Workshops included strategies for identifying fake news, promoting media literacy, and leveraging technology to ensure journalistic accuracy. Participants competed for funding to develop impactful projects addressing these challenges, fostering collaboration and regional resilience.
+
+Promotion of Open Source Tools: Docker
+Type: Activity
+ Date: August 31, 2021
+ Topic: Docker Containerization
+ Details:
+ Docker, the industry-standard tool for containerization, was showcased for its versatility in building and deploying applications across platforms. Its command-line interface simplifies workflows for developers, making it accessible to beginners while providing robust capabilities for professionals. FLOSSK promoted Docker as a cornerstone technology for modern development.
+
+Promotion of Open Source Tools: Audacity
+Type: Activity
+ Date: August 25, 2021
+ Topic: Audacity Audio Editor
+ Details:
+ Audacity, a free and user-friendly multi-track audio editor, was highlighted for its contributions to education and creative industries. As a tool distributed under the GNU General Public License, it empowers students, educators, and professionals to edit, record, and produce audio content efficiently. FLOSSK encouraged its adoption to democratize access to audio editing tools.
+
+Secure the Balkans Tool
+Type: Activity
+ Date: July 21, 2021
+ Location: Kosovo
+ Details:
+ The "Secure the Balkans" tool was introduced to evaluate and enhance the security of regional news organization websites. By encouraging the adoption of HTTPS encryption, it aimed to improve website security and boost search engine rankings. This initiative underscored the importance of implementing modern security technologies for media platforms.
+
+FLOSS Policies for Government
+Type: Activity
+ Date: June 2, 2021
+ Location: Kosovo
+ Details:
+ FLOSSK advocated for the implementation of Free and Open Source Software (FLOSS) policies within government systems to reduce redundancy and optimize public spending. The proposal included the establishment of an Open Source Office and the integration of FLOSS solutions in public administration. This initiative aimed to modernize governance through cost-effective, sustainable, and community-driven technologies.
+
+Prishtina Hackerspace Re-opening
+Type: Activity
+ Date: May 28, 2021
+ Location: Prishtina, Kosovo
+ Details:
+ Prishtina Hackerspace reopened to new members, offering access to dedicated spaces for electronics, carpentry, and welding projects. Equipped with tools such as Arduino and Beaglebone Black, the space served as a hub for innovation, collaboration, and networking. New members could join through an application process, fostering a vibrant and inclusive community.
+
+OpenStreetMap Award Ceremony
+Type: Activity
+ Date: May 27, 2021
+ Location: Prishtina Hackerspace, Kosovo
+ Details:
+ FLOSSK hosted an award ceremony to honor students who made significant contributions to OpenStreetMap as part of the After School Support for Teens (ASSET) program. The students participated in 16 mapathons, achieving remarkable edits to improve Kosovo's geographic data:
+● Korab Haxhiu: 1883 edits
+● Fatjeta Gashi: 1872 edits
+● Suela Hasani: 1018 edits
+ This event celebrated their efforts and reinforced the importance of community-driven mapping projects.
+
+Government Request for Free Software Adoption
+Type: Activity
+ Date: May 25, 2021
+ Location: Kosovo
+ Details:
+ FLOSSK submitted a formal request urging the government to adopt Free Software solutions for educational institutions and public administration. The proposal advocated for replacing costly proprietary software with open-source alternatives to reduce financial burdens and increase accessibility for students and educators.
+
+

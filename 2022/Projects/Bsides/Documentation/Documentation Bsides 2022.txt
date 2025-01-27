@@ -1,0 +1,47 @@
+﻿Documentation 
+
+
+Title: Bsides
+	
+Project description:
+BSides Prishtina 2022 was a one-day cybersecurity conference held at the University of Prishtina in Prishtina, Kosovo. The conference aimed to promote, educate, and raise public awareness about cybersecurity. It featured lectures by local and international speakers covering various cybersecurity topics such as Data Forensics, Malware Analysis, Cybercrime Investigation, and Cyber Threat Intelligence. The event targeted students in technical fields, cybersecurity enthusiasts, professionals, and academics.
+
+Activities:
+Key activities: 
+
+● Conference Organization: Planning and logistics for the one-day event, such as securing a venue, arranging transportation, and preparing necessary resources.
+● Speaker Sessions: Presentations and lectures from both local and international cybersecurity experts.
+● Networking Opportunities: Provided spaces and sessions for participants to connect and discuss cybersecurity challenges.
+● Outreach and Marketing: Promotion of the event through social media and sponsor networks to maximize awareness and attendance.
+
+
+Photos:
+
+
+
+Beneficiaries:
+
+The conference benefited students in computer science and technical fields, as well as cybersecurity enthusiasts and professionals across Kosovo and the surrounding region. It provided valuable insights and learning opportunities for the academic community and the general public interested in cybersecurity topics.
+
+Partners:
+
+● FLOSSK (Free Libre Open Source Software Kosova) - Acted as the fiscal sponsor, assisted with logistics, and leveraged its network for outreach.
+● University of Prishtina - Provided the venue and supported the event.
+
+
+Budget:
+€ 13,072.50
+
+Project duration:
+January 2022 to 30 April 2022 
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

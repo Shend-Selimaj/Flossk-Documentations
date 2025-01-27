@@ -1,0 +1,41 @@
+﻿Documentation 
+
+
+Title: Bsides 2024
+	
+Project description:
+
+BSides Prishtina 2024 was the third edition of the local BSides security conference in Kosovo, held at the University of Prishtina. The conference aimed to further develop the growing information security community in Kosovo by fostering collaboration among IT talent and security professionals. Building on the success of previous editions.
+
+Activities:
+Key activities: 
+● Hosted keynote presentations and panel discussions  
+● Conducted specialized workshops led by industry experts  
+● Organized a competitive Capture-the-Flag (CTF) challenge for participants  
+● Provided networking opportunities with local and international cybersecurity professionals
+Photos:
+
+
+
+Beneficiaries:
+The primary beneficiaries were IT students, aspiring cybersecurity professionals, and established practitioners in the Kosovo information security community, who gained hands-on experience, networking opportunities, and industry insights.
+Partners:
+
+● N/A
+
+Budget:
+€13,072.50
+
+Project duration:
+May 2023 - May 2024
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

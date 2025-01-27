@@ -1,0 +1,50 @@
+﻿Documentation 
+
+
+Title: DebConf22 Kosovo
+	
+Project description:
+DebConf22 was the annual international gathering of Debian developers, contributors, users, and enthusiasts held in Prizren, Kosovo. The conference fostered collaboration, facilitated technical discussions, and advanced the Debian GNU/Linux distribution. It included presentations, workshops, and networking opportunities for around 500 attendees from Kosovo and around the world. Activities included an Open Day, Conference Dinner, Tour Day, and Job Fair, which promoted Kosovo as a technology destination and integrated local professionals into the global tech community.
+
+
+
+Activities:
+Key activities: 
+
+● Conference sessions and presentations that covered technical, social, and political developments in the digital world
+● Workshops focused on Debian and free software
+● Job Fair day that connected local talent with international companies
+● Tour Day with local excursions, providing cultural exposure and networking opportunities
+
+Photos:
+
+
+Beneficiaries:
+● Debian community members and developers
+● Local and international tech community
+● Kosovan businesses and professionals
+
+
+Partners:
+
+● Free Libre Open Source Software Kosova (FLOSSK)
+● ITP Prizren
+● Local sponsors and collaborators
+
+
+Budget:
+€ 212,604.00
+
+Project duration:
+01.05.2022 - 30.09.2022
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

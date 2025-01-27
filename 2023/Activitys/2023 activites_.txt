@@ -1,0 +1,63 @@
+﻿
+Detecting Evasive Attacker Techniques
+Not found
+: A Case Study
+Type: Activity
+ Date: October 12, 2023
+ Location: Prishtina Hackerspace
+ Speaker: Daniel Bohannon, Principal Security Researcher at Premiso Security
+ Details:
+ In collaboration with Women4Cyber Kosovo, this event provided deep insights into advanced cybersecurity strategies.
+ Focus Areas:
+● Threat hunting and detection development.
+● Defensive research and real-world attacker evasion techniques.
+● Effective utilization of detection tools.
+ The event aimed to enhance participants’ knowledge in advanced cybersecurity defense mechanisms.
+
+FOSS4G 2023 - Global Geospatial Technology Conference
+Type: Activity
+ Date: June 26 – July 2, 2023
+ Location: Prizren, Kosovo
+ Details:
+ The largest annual global event for geospatial technology, centered on open-source software.
+ Key Highlights:
+● Participants: 683 attendees from 56 countries.
+● Content: 269 lectures, 44 workshops by over 300 authors.
+ Supporters:
+● Ministry of Economy, local institutions, and private sponsors.
+ Outcome:
+ The conference established Kosovo as a hub for geospatial technology, fostering knowledge exchange and innovation.
+
+OSCAL 2023 - Open Source Conference Albania
+Type: Activity
+ Date: September 2-3, 2023
+ Location: Tirana, Albania
+ Details:
+ Theme: "Standing on the Shoulders of Hackers."
+ The conference featured a mix of keynote speeches, workshops, and community meetups.
+ Topics Covered:
+● Software freedom.
+● Digital commons.
+● Online privacy.
+ An open call for speakers encouraged participation from regional and global contributors.
+
+Training: Mastering Git
+Type: Activity
+ Date: May 16-18, 2023
+ Location: Prishtina Hackerspace
+ Trainer: Enkelena, Embedded Software Engineer
+ Details:
+ A three-day training aimed at both beginners and experienced users to enhance proficiency in Git.
+ Topics Covered:
+● Version control basics.
+● Branching, merging, and conflict resolution.
+● Collaborating with remote repositories on platforms like GitHub and GitLab.
+
+Exploring Open Data Using Data Science
+Type: Activity
+ Date: July 3, 2023
+ Location: Prishtina Hackerspace Garden
+ Details:
+ A presentation by Lis on real-world case studies showcasing the application of open-source data science tools. The event concluded with a networking session featuring BBQ and drinks, fostering community engagement.
+
+

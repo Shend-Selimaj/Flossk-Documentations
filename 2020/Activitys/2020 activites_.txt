@@ -1,0 +1,63 @@
+﻿
+Prishtina Python Meetup
+Type: Activity
+ Date: December 28, 2020
+ Location: Online (https://meet.flossk.org/b/flo-lzj-bhx)
+ Speaker: Ylber Veliu
+ Topic: Building and Consuming REST APIs in Python with Flask
+ Details: Ylber Veliu, a seasoned software engineer and creator of the educational YouTube channel "Për Programera", delivered an insightful presentation on using Flask for developing and consuming REST APIs. Participants had the opportunity to gain hands-on knowledge and interact with Ylber via the online platform. FLOSSK encouraged ongoing discussions and networking through their Facebook group and Telegram chat, fostering an engaged and collaborative community.
+
+Open Hardware Meetup
+Type: Activity
+ Date: December 21, 2020
+ Location: Online (https://meet.flossk.org/b/flo-lzj-bhx)
+ Speakers:
+    • Agron Dida – Engineer and founder of Zgjoi.com
+    • Dukagjin Rudi – Founder of FARA
+    • Erdet Nasufi – Lead Electrical Engineer at Solaborate
+    • Besfort Guri – Board Member at FLOSSK
+ Topic: Open Hardware and Its Applications
+ Details: This dynamic panel discussion explored the significance of open-source hardware in education and the labor market. Hosted by Prishtina Hackerspace and supported by the Municipality of Pristina, the event provided attendees with insights into innovative hardware applications and their potential to drive societal progress. Discussions emphasized the critical role of community-led initiatives in advancing open-source hardware projects.
+
+Balkan FLOSStival 2020
+Type: Activity
+ Date: December 5, 2020
+ Location: Online
+ Organizers: FLOSSK, Open Labs, fossaegean, GFOSS, GreekLUG, SHARE Foundation
+ Details: Balkan FLOSStival 2020 was an online celebration of free and open-source software, hardware, online privacy, and open data. The event offered a rich schedule of workshops, presentations, and informal discussions, focusing on topics such as cybersecurity, Linux, and open-source solutions for education and business. The event highlighted the collaborative efforts of multiple organizations and was proudly sponsored by EU for Innovation, demonstrating the growing regional impact of the open-source movement.
+
+OSM GeoWeek 2020
+Type: Activity
+ Date: November 17-18, 2020
+ Location: Online
+ Details: In collaboration with the University of Pristina’s Departments of Geography, Geodesy, and Architecture, FLOSSK hosted OSM GeoWeek 2020. Activities included a panel discussion and a hands-on mapathon, where participants contributed to improving OpenStreetMap by mapping roads, transit stations, and other essential features. This initiative showcased the power of collective action in creating accurate, accessible, and open geographic data.
+
+DOKU.TECH 2020
+Type: Activity
+ Date: November 14, 2020
+ Location: Klan Kosova
+ Speakers:
+    • Bernard Nikaj – Independent Public Policy Expert
+    • Agnesa Belegu – Game Developer
+    • Besfort Guri – CEO of OpS-IN and FLOSSK Board Member
+ Details: DOKU.TECH 2020 brought together diverse experts to discuss the intersection of technology, public policy, and software development. This hybrid event, live-streamed from Klan Kosova, provided attendees with thought-provoking discussions and actionable insights. It underscored the transformative impact of technology across sectors and emphasized the need for responsible and innovative solutions.
+
+Prishtina Infosec Meetup
+Type: Activity
+ Date: October 31, 2020
+ Location: Prishtina Hackerspace (Hybrid: Online and In-Person)
+ Details: The Prishtina Infosec Meetup featured four compelling presentations on trending information security topics. Designed as a hybrid event, it catered to both virtual and in-person participants, fostering a vibrant environment for learning and networking. This meetup highlighted FLOSSK’s commitment to enhancing the local tech community’s knowledge and skills in cybersecurity.
+
+FLOSSK Community Forum Launch
+Type: Activity
+ Date: September 30, 2020
+ Location: Online (forum.flossk.org)
+ Details: FLOSSK launched a new online forum to serve as a hub for discussions about free and open-source software, culture, and knowledge-sharing. The platform was designed to welcome diverse perspectives and encourage meaningful engagement among members and supporters of the FLOSSK community.
+
+OSGeo Kosovo Representation
+Type: Activity
+ Date: September 10, 2020
+ Location: OSGeo Annual General Meeting (Online)
+ Details: FLOSSK Board Member Besfort Guri represented OSGeo Kosovo at the Annual General Meeting. His presentation highlighted the chapter’s achievements in promoting open geographic data, its role in fostering collaboration, and plans for hosting the State of the Map Southeast Europe Conference.
+
+

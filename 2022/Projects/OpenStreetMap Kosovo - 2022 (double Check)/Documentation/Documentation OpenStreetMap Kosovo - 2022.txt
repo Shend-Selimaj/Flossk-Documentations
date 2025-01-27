@@ -1,0 +1,53 @@
+﻿Documentation 
+
+
+Title: OpenStreetMap Kosovo - 2022
+	
+Project description:
+The project focused on developing Geographic Information System (GIS) skills and fostering community engagement through various initiatives. Highlights included celebrating OpenStreetMap's 17th birthday, hosting workshops on GIS technology, organizing mapathons, participating in international events like the "State of the Map," and establishing the OpenStreetMap Albania community. The project aimed to strengthen local networks, promote regional collaboration in geospatial mapping, and enhance the OpenStreetMap database with valuable geographic data from Kosovo and neighboring regions.
+
+Activities:
+Key activities: 
+
+● Celebration of OpenStreetMap's 17th birthday: On August 8th, a milestone event was held to celebrate the 17th birthday of OpenStreetMap, highlighting the power of open-source mapping in fostering global cooperation and cartographic innovation.
+● GIS Workshop: From June 9th to June 12th, a comprehensive workshop titled "How to Run the Place with Geographic Information Systems" was hosted. The program delved into GIS technology, offering hands-on sessions to elevate participants' abilities in spatial data analysis and place management.
+● Participation in Local Chapter and Communities Virtual Congress: On November 12th, the team participated in the Virtual Congress, engaging in forums and sharing expertise in using technology for community building.
+● OSM Mapathon at Prishtina Hackerspace: On November 19th, the team facilitated a full-day mapathon at Prishtina Hackerspace, where map-makers, data scientists, and geospatial professionals collaborated to enrich the open-source map.
+● Establishment of OpenStreetMap Albania Community: The team played a key role in establishing the OpenStreetMap Albania community, fostering a vibrant mapping community and promoting open-source mapping tools.
+● GeoTaggers Activities: GeoTaggers activities were organized on February 19th-20th, February 25th-27th, and March 5th-6th, bringing together geospatial enthusiasts for geographic tagging and mapping sessions.
+● OSM Meetups: On March 9th and April 14th, the team organized OSM meetups to strengthen the local OSM community by fostering connections, sharing ideas, and collaborating on mapping projects.
+● Regional GeoTaggers Gathering: From August 23rd to 27th, a Regional GeoTaggers gathering was held to foster regional cooperation and inspire collective action towards enhancing open-source mapping efforts.
+● Mapathon Series: The team organized a series of mapathons throughout the year, including in Suhareke, Obiliq, Prizren, Rahovec, Vushtrri, Hani i Elezit, and others, providing opportunities for local communities to contribute to OpenStreetMap.
+
+Photos:
+
+
+
+Beneficiaries:
+The project positively impacted local communities and participants, who gained valuable hands-on experience in GIS and geospatial mapping through workshops and mapathons. It also strengthened the OpenStreetMap Kosovo and Albania communities by enhancing their mapping capabilities, while fostering collaboration and knowledge-sharing within the broader geospatial community.
+
+Partners:
+
+● OpenStreetMap Albania
+● KEC / ASSET
+● SPACE SYNTAKS
+● High Schools part of ASSET project by KEC
+● Open Labs Albania
+
+
+Budget:
+€9,860.00 
+
+Project duration:
+Throughout 2022
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

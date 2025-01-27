@@ -1,0 +1,44 @@
+﻿Documentation 
+
+
+Title: Tech Bootcamp
+	
+Project description:
+
+The Tech Bootcamp project by FLOSSK aimed to bridge the gap between market needs and the educational system in Kosovo by providing intensive, bootcamp-style training to youth. It featured two main tracks: a generic track for high school students teaching basic web development skills, and a specialized track for university students and recent graduates focused on specific programming technologies. The generic track aimed to train 140 high school students, while the specialized track targeted 24 university students, preparing them for entry-level positions in local software development firms. The project sought to address the lack of employable skills among youth entering the IT sector and to establish a pipeline of trained young professionals ready to meet the demands of the job market.
+Activities:
+Key activities: 
+
+● Conducted a series of 8 weekend training days for high school students on the basics of web programming.
+● Ran two intensive bootcamps for university students on Java and a JavaScript framework for web development.
+● Provided career orientation for 140 high school students through IT clubs organized by the ASSET program.
+● Organized internship placements with local software development firms for university students completing the bootcamps.
+
+Photos:
+
+
+Beneficiaries:
+
+The project benefited 140 high school students (ages 16-18), who learned the basics of web development, and 24 university students (ages 18-23), who underwent intensive web programming training to prepare for entry-level positions in the IT sector.
+Partners:
+
+● ASSET Program (USAID-funded) – Collaboration with IT clubs in high schools.
+● Local software development firms – Providing internship placements for bootcamp graduates.
+
+
+Budget:
+€48,512 
+
+Project duration:
+July 1, 2020 - May 30, 2021
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

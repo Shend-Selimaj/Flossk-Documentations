@@ -1,0 +1,50 @@
+﻿Documentation 
+
+
+Title: FOSS4G 2023
+	
+Project description:
+The FOSS4G 2023 conference aimed to increase the capacity and expertise of professionals in Kosovo and the region in using and applying open-source geospatial technologies. The event was held at Innovation & Training Park (ITP) Prizren and featured keynote speeches, panel discussions, technical presentations, and workshops on open-source geospatial technologies. The conference sought to improve networking and collaboration among professionals, disseminate knowledge and resources, and promote economic development and social inclusion in Kosovo. It involved various partners, including local and regional organizations, international organizations, and sponsors, ensuring an inclusive and accessible event that benefited women and non-majority communities. The project was expected to have a lasting impact on the field of open-source geospatial technologies in Kosovo.
+
+Activities:
+Key activities: 
+
+● Organization and coordination of the FOSS4G 2023 conference.
+● Delivery of keynote speeches, panel discussions, and technical presentations.
+● Hosting hands-on workshops and training sessions on open-source geospatial tools.
+● Networking sessions and discussions aimed at fostering collaborations among professionals.
+● Outreach to local and international stakeholders, including organizations from non-majority communities and women in tech.
+
+
+Photos:
+
+
+
+Beneficiaries:
+
+Local and regional professionals in geospatial technologies.
+Women and non-majority communities in Kosovo, benefit from increased access to training and networking opportunities.
+International stakeholders and organizations involved in open-source geospatial technologies.
+
+
+Partners:
+
+●  OSGeo Foundation
+● OpS-IN
+● SpaceSyntaks
+
+Budget:
+€351,549.00 
+
+Project duration:
+June 26, 2023 - July 1, 2023
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+

@@ -1,0 +1,46 @@
+﻿Documentation 
+
+
+Title: Libraria e Hapur (Open Library) 
+	
+Project description:
+The project "Libraria e Hapur" aimed to digitize and make accessible over 200 public domain books and documents, considered cultural heritage works. Through this project, a scalable model for digitizing publications difficult to access was established. Additionally, youth gained skills in ICT, specifically in digitization and processing of publications using open-source tools like ScanTailor and Tesseract OCR Engine. The project enabled easy and free access to digitized materials, benefiting various audiences including students, researchers, and cultural enthusiasts. It promoted cultural heritage preservation and innovation in Kosovo.
+
+Activities:
+Key activities: 
+
+● Digitization of Books and Documents:
+Over 200 books and documents were scanned, categorized, and digitized using professional scanners and open-source software tools.
+● Database Development and Platform Design:
+A web-based platform was developed for hosting the digitized books. This platform featured a user-friendly interface that allowed easy browsing and downloading.
+● Training for Youth:
+Youth were trained in digitization, cataloging, and data entry, ensuring they gained valuable ICT skills during the project.
+● Promotion and Outreach:
+The project included outreach efforts to spread awareness about the digital platform, including promotional campaigns, branding, and organizing an event to launch the platform.
+
+Photos:
+
+
+Beneficiaries:
+
+The project benefited a wide range of individuals, including students, researchers, and cultural enthusiasts, by providing them with free and easy access to valuable digitized materials. It also offered valuable learning opportunities for the youth involved, helping them develop important ICT skills.
+Partners:
+
+● -
+
+Budget:
+€58,640
+
+Project duration:
+January 2022 - June 2022
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

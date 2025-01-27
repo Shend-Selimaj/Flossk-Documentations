@@ -1,0 +1,31 @@
+﻿Documentation 
+
+
+Title: Open Source Technologies for Geospatial Research and Development
+	
+Project description:
+The project aimed to equip students and teachers with modern, open-source geospatial tools and methodologies for geographical studies. It focused on updating the existing curriculum in the geospatial domain with the 'Geo for All' curriculum, which included monthly activities and workshops. Throughout the project, students learned data collection, mapping, visualization, data processing, and publishing. By leveraging geospatial technology, students engaged in research projects on diverse topics, including land use mapping, urbanization, deforestation, watersheds, and flooding. This project enriched students' understanding of geographic concepts, fostering critical, analytical, and imaginative thinking skills.
+
+Activities:
+Key activities: 
+
+● Sourcing and setting up laboratory equipment for geospatial research and development
+● Recruiting participants from the Geography Department
+● Hosting bi-monthly workshops led by experts on topics such as data collection, data processing, mapping,remote sensing and drone technologies
+● Conducting monthly meetups and mapathons at Prishtina Hackerspace
+
+
+Photos:
+
+
+Beneficiaries:
+The primary beneficiaries were the students and teaching staff of the University of Prishtina’s Geography Department. Secondary beneficiaries included the wider community, public institutions, as well as members of OSM & OSGeo local chapters. 
+Partners:
+
+● University of Prishtina, Department of Geography 
+
+Budget:
+€35,187.00
+
+Project duration:
+06 January 2024 - 14 December 2024

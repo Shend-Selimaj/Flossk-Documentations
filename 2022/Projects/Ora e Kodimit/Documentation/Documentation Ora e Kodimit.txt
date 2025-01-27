@@ -1,0 +1,51 @@
+﻿Documentation 
+
+
+Title: Ora e Kodimit
+	
+Project description:
+
+"Ora e Kodimit" was designed to introduce coding to students across Kosovo, inspired by the global "Hour of Code" initiative. The project included translating educational materials into Albanian, coordinating with schools and municipalities, and promoting coding as a potential career path. Key activities included a launch event, multimedia campaigns, and collaboration with partners to organize coding sessions nationwide. The initiative aimed to empower students in grades 6-12 with computer science skills through interactive workshops during Computer Science Week, fostering computational thinking and problem-solving abilities.
+
+Activities:
+Key activities: 
+
+● Translated the Hour of Code website and educational resources into Albanian.
+● Held coordination meetings and established cooperation agreements with schools and municipalities to ensure smooth project execution.
+● Launched the "Hour of Code" with events at Prishtina Hackerspace and other partner centers, featuring influencers as promoters of coding.
+● Conducted nationwide Hour of Code activities in over 10 municipalities during Computer Science Week (December 5-9, 2022).
+
+Photos:
+
+
+Beneficiaries:
+
+The project benefited students in grades 6-12 across various municipalities in Kosovo, providing them with an introduction to coding and computer science skills. Teachers and school institutions received guidance on facilitating coding activities, enabling them to support these new learning opportunities effectively. Local institutions and parents were also actively engaged, promoting computer science education and encouraging student participation, fostering a supportive environment for expanding digital literacy and interest in technology fields.
+
+
+Partners:
+
+● Municipality of Pristina
+● IPKO Foundation
+● BONEVET
+● Innovation Center Kosovo (ICK)
+● YMCA
+● American Corner Prizren
+● SpaceSyntaKs
+
+Budget:
+€1800 (perkthim 1000, 800 dizajn), krejt aktivitetet jane ba pro bono
+
+Project duration:
+September 1, 2022 - February 2023
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

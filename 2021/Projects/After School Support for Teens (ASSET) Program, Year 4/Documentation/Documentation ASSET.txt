@@ -1,0 +1,53 @@
+﻿Documentation 
+
+
+Title: After School Support for Teens (ASSET) Program, Year 4
+	
+Project description:
+
+The project aimed to organize after-school activities under the ASSET Program, focusing on developing employability and entrepreneurial skills among Kosovo youth. Activities included installing air quality station networks in 16 partner schools and providing Arduino training to students across the same schools. These initiatives aimed to enhance practical skills and engage students in STEM education, preparing them for future careers and entrepreneurial endeavors.
+
+Activities:
+Key activities: 
+
+● Installation of weather and air quality station networks in 9 ASSET Program partner schools, involving around 135 students and teachers.
+● Creation of Wiki Clubs in 16 ASSET Program partner schools, engaging 240 students in learning about Wikipedia, Wikidata, and Wikimedia Commons.
+● Training on Arduino with electronics kits in 16 ASSET Program partner schools, involving 192-320 students in hands-on learning of basic electronics and programming.
+● Training on OpenStreetMap (OSM) in 16 ASSET Program partner schools, providing students with skills to map and edit geographic data.
+Photos:
+
+
+
+
+
+Beneficiaries:
+
+The program directly benefited around 600 students from 16 ASSET partner schools across Kosovo, Albania, Bosnia and Herzegovina, Croatia, Montenegro, North Macedonia, Serbia, and Slovenia. Participants included students, teachers, and school administrators, with a focus on enhancing students' technical, entrepreneurial, and life skills.
+
+Partners:
+
+● SAID
+● Kosova Education Centre (KEC)
+● FHI 360
+● Crimson Capital Corp
+● Wikimedia Foundation
+● Balkan Green Foundation
+● OpenStreetMap Foundation
+
+
+Budget:
+€3,250.00
+
+Project duration:
+November 2021 – March 2022
+
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

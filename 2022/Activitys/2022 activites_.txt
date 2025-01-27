@@ -1,0 +1,94 @@
+﻿Hour of Code - Prishtina
+Type: Activity
+ Date: December 6, 2022
+ Location: SHFMU “Xhemail Mustafa,” Prishtina
+ Speakers/Participants:
+● Uta Ibrahimi (Alpinist)
+● Donjeta Sahatçiu (Deputy Mayor of Prishtina)
+● Besianë Musmurati (Director of Education, Municipality of Prishtina)
+● Bert Gorani (Digital School)
+ Details:
+ Part of the global "Hour of Code" initiative, this event aimed to introduce computer science concepts to all ages. The program featured students, educators, and public figures collaborating to promote coding and technology education. Virtual participation links and coding resources were provided to ensure accessibility.
+
+Tech & Beer - Festive Gathering
+Type: Activity
+ Date: November 28, 2022
+ Location: PRNHS Pub, Prishtina
+ Details:
+ An informal social gathering for technology enthusiasts, the event provided a platform for networking and casual discussions. Attendees included engineers, developers, entrepreneurs, and students. The event also showcased local craft beers, enhancing the festive atmosphere.
+
+Meeting with the Minister of Economy
+Type: Activity
+ Date: November 17, 2022
+ Location: FLOSSK Headquarters, Prishtina
+ Details:
+ A strategic discussion with Minister Artanë Rizvanolli focused on economic and technological development in Kosovo. FLOSSK highlighted its achievements and shared plans for the upcoming year, emphasizing initiatives in open-source and digital transformation.
+
+Debian Conference 2022 (DebConf22)
+Type: Activity
+ Date: July 17-24, 2022
+ Location: Prizren, Kosovo
+ Details:
+ Hosted by FLOSSK, this week-long event featured DebCamp (hacking sessions) and DebConf (talks and workshops). It brought together Debian and Free Software contributors to collaborate and innovate. Sponsors included Lenovo, Google, Microsoft, and USAID Kosovo.
+
+Cybersecurity Threat Hunting Workshop
+Type: Activity
+ Date: April 2022
+ Details:
+ Led by Daniel Bohannon (Principal Security Researcher, Microsoft), this workshop included hands-on exercises in malware analysis and forensic investigations. Participants explored advanced cybersecurity tools and threat-hunting methodologies.
+
+ONLYOFFICE Promotion
+Type: Activity
+ Date: June 20, 2022
+ Location: Online (Social Media)
+ Details:
+ FLOSSK introduced ONLYOFFICE, a free office suite designed for document editing, project management, and corporate communication. Supporting Microsoft Office and OpenDocument formats, the suite emphasizes productivity and collaboration.
+
+Linux User Group Meetup
+Type: Activity
+ Date: May 26, 2022
+ Location: Prishtina Hackerspace
+ Speaker: Altin Ukshini
+ Topic: Introduction to DevOps
+ Details:
+ The meetup explored DevOps practices, focusing on CI/CD automation and infrastructure as code. Altin Ukshini, a Cloud/DevOps engineer, shared insights and tools for streamlining software development processes.
+
+DebConf22 Bursary Applications and Call for Papers
+Type: Activity
+ Date: April 28, 2022
+ Location: Innovation and Training Park, Prizren, Kosovo
+ Details:
+ Participants were invited to apply for bursaries and submit proposals for DebConf22. Formats included tutorials, workshops, and debates lasting 20-45 minutes. The conference was held from July 17-24, preceded by DebCamp (July 10-16).
+
+DebConf22 Volunteer Call
+Type: Activity
+ Date: April 12, 2022
+ Location: Innovation and Training Park, Prizren, Kosovo
+ Details:
+ Volunteers were encouraged to assist in organizing DebConf22. Tasks included event setup, technical support, and participant coordination. The event provided networking opportunities and insights into global collaboration.
+
+Open Hardware and Arduino Afterschool Activities
+Type: Activity
+ Date: February 9, 2022
+ Location: Prishtina, Kosovo
+ Topic: Afterschool Arduino Workshops for Youth
+ Details:
+ FLOSSK organized afterschool workshops to teach youth the basics of Arduino and open-source hardware. Supported by USAID Kosovo, the initiative aimed to inspire students to explore careers in programming and electronics.
+
+Digital Storytelling Workshop
+Type: Activity
+ Date: February 7, 2022
+ Location: American Corner Prishtina
+ Topic: Digital Storytelling for Young Women
+ Details:
+ Conducted by Douglas Arellanes, the workshop introduced digital storytelling tools such as mural.io, Audacity, Vimix, and Gimp. Part of the USTEAM for Prishtina project, it empowered young women to explore leadership roles in multimedia.
+
+FOSDEM Conference Participation
+Type: Activity
+ Date: February 5, 2022
+ Location: Online
+ Topic: Participation in FOSDEM 2022 Conference
+ Details:
+ FLOSSK attended FOSDEM 2022, covering topics like Cloud Computing, Big Data, and Data Science. The conference, live-streamed online, attracted thousands of technology enthusiasts globally.
+
+
