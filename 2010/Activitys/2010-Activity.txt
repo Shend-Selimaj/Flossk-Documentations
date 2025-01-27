@@ -1,0 +1,127 @@
+2010 Activity
+2010 Activity
+1. KDE SC 4.4 Release Party
+? Type: Activity
+? Date: February 9, 2010
+? Location: IDI Offices, Kosovo
+? Purpose:
+? Celebrate the release of KDE SC 4.4, a major update to the KDE desktop environment.
+? Details:
+? Attended by over 20 Free and Open Source Software enthusiasts.
+? Presentation by Milot Shala on the new features and updates in KDE SC 4.4.
+? Souvenirs, such as KDE stickers, were distributed.
+? Photos: Available in the FLOSSK Gallery.
+
+2. Free Digital Society with Richard Stallman
+? Type: Project/Activity
+? Date: June 4, 2010
+? Location: National Library of Kosovo
+? Organizer: FLOSSK
+? Purpose:
+? Host Richard Stallman (RMS), a global advocate for Free Software, for a lecture titled "A Free Digital Society."
+? Details:
+? RMS discussed the shaping of digital society and threats posed to digital freedom.
+? Meetings were held with IT enthusiasts in Prishtina and Gjakova.
+? About Richard Stallman (RMS):
+? Founder of the GNU Project and the Free Software Foundation.
+? Creator of the GNU General Public License (GPL).
+? Recipient of notable awards, including:
+¦ MacArthur Fellowship (1990).
+¦ EFF Pioneer Award (1998).
+https://archive.org/details/RMS_PRISHTINA
+
+
+3. FLOSS Camp in Shëngjin
+? Type: Activity
+? Date: July 17-18, 2010
+? Location: Shëngjin, Albania
+? Organizers: FLOSSK and FLOSS Albania
+? Purpose:
+? Unite Free Software enthusiasts and contributors for collaborative learning.
+? Details:
+? Included group discussions on Free Software topics:
+¦ Wikimedia projects.
+¦ OpenStreetMap initiatives.
+? Featured presentations:
+¦ James Michael DuPont (co-founder of FLOSS Kosovo).
+¦ Luca Pescatore (monetizing Free Software skills).
+? Outcomes:
+¦ Inspired new contributions to OpenStreetMap in Albania.
+¦ Initiated translations for Wikimedia projects.
+¦ Laid plans for future conferences in Albania and Kosovo.
+Photo[1]
+
+4. Fedora 13 Release Party
+? Type: Activity
+? Date: May 27, 2010
+? Location: IDI Offices, Kosovo
+? Purpose:
+? Celebrate the release of Fedora 13, a leading Linux distribution.
+? Details:
+? Presentation on Fedora's history, community, and key features.
+? Fedora 13 CDs were distributed to attendees to promote Free Software adoption.
+
+5. FLOSSK at ITTF (Information Technology Fair)
+? Type: Activity
+? Date: April 27, 2010
+? Location: Pristina
+? Purpose:
+? Showcase FLOSSK's mission and promote Free and Open Source Software (FOSS).
+? Details:
+? Engaged with local companies and organizations.
+? Presented the benefits and potential of FOSS.
+? Announced upcoming events:
+¦ Richard Stallman's visit.
+¦ FLOSSK's annual conference.
+? Media: Photos and video interviews available via the FLOSSK Gallery and Radio Television of Kosovo.
+
+6. Software Freedom Day (SFD) in Gjakova
+? Type: Activity
+? Date: September 18, 2010
+? Location: Gjakova
+? Purpose:
+? Promote Free Software and Open Source concepts.
+? Details:
+? Presentations on GNU/Linux and graphic design tools like GIMP and Inkscape.
+? Hands-on Ubuntu installation sessions.
+? Distributed Ubuntu CDs and compared GNU/Linux with Windows.
+
+7. Mozilla Day in Gjakova
+? Type: Activity
+? Date: October 16, 2010
+? Location: Ibrahim Rugova Library, Gjakova
+? Purpose:
+? Highlight Mozilla's projects and their impact.
+? Details:
+? Discussions on Mozilla tools like Firefox, Thunderbird, and Add-ons.
+? Progress updates on Firefox 4.0 localization efforts.
+? Speakers:
+¦ Heroid Shehu.
+¦ Jon Berisha.
+¦ Endrit Vula.
+
+8. Ubuntu 10.04 LTS Release Party
+? Type: Activity
+? Date: October 17, 2010
+? Location: Library "Day of Nat"
+? Purpose:
+? Celebrate the release of Ubuntu 10.04 LTS, a long-term support version.
+? Details:
+? Presentation by Arianit Dobroshi, FLOSSK board member, on Ubuntu's new features.
+? Installation help and Ubuntu CDs were provided.
+? Media coverage included Klan Kosova.
+
+9. Fedora 14 Release Party
+? Type: Activity
+? Date: November 19, 2010
+? Location: FLOSSK Hacklab
+? Purpose:
+? Celebrate the launch of Fedora 14, a popular Linux distribution.
+? Details:
+? Discussed Fedora's innovative features.
+? Despite technical challenges (no projector), attendees actively engaged in discussions.
+
+
+
+
+N/A
