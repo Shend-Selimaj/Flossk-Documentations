@@ -1,0 +1,94 @@
+2012 FLOSSK Activity 
+
+1. FLOSSTalks: Knowledge Sharing and Open Discussions
+? OpenStack with Arturo Suarez
+
+? Date & Location: February 22, 2012, UNICEF Innovations Lab Kosovo (video conference from Madrid).
+? Details: Arturo Suarez discussed the OpenStack project, including a 45-minute presentation followed by Q&A.
+? Access: Live-streamed for remote attendees.
+? Registration: Required via Facebook.
+? Adapting Android with Betim Deva
+
+? Date: December 29, 2011.
+? Topics: Customizing Android, application programming, and adapting Android for devices like the Nook.
+? Hacker Spaces with Arangel Angov
+
+? Date & Location: March 17, 2012, UNICEF Innovations Lab Kosovo.
+? Topics: Establishing hacker spaces as hubs for learning and collaboration.
+? Geospatial Technology with Besfort Guri
+
+? Date: May 29, 2012.
+? Topics: Tools like QGIS and GeoServer for geographic data management.
+The Photos are here somewhere [1]
+
+2. Key Project Launches
+? Prishtina Buses Project
+
+? Launch Date: January 12, 2012.
+? Purpose: Created an online platform for bus schedules, routes, and prices to promote public transport use.
+? Development: Routes mapped using Garmin GPS; data visualized online.
+? Budget: €500, supported by UNICEF Innovations Lab.
+? Mapping Public Facilities in Kosovo
+
+? Date: January 20, 2012.
+? Goal: OpenStreetMap integration for public institutions in seven cities.
+? Challenges: Collaborated with InformataZyrtare.org to overcome data scarcity.
+? Master Directory of Map Tile Distributors (MDMTD)
+
+? Proposal Date: February 12, 2012.
+? Objective: Develop tools to manage and distribute map tiles for OpenStreetMap, focusing on localized maps.
+? Requirements: PHP/JS developers, web servers, and a database infrastructure.
+
+3. Conferences and Workshops
+? Hello Drupal Training
+
+? Date: May 6, 2012.
+? Presenter: Dave Hall (Technocrat, Australia).
+? Focus: Building enterprise-scale websites using Drupal CMS.
+? Tech Talk with Terry Dwyer
+
+? Date: March 29, 2012.
+? Topic: Development of 3-tier applications (UI, AL, DB).
+? Software Freedom Kosova 2012 (SFK12)
+
+? Dates: September 7-9, 2012.
+? Focus: Free/Libre and Open Source Software, HTML5, JavaScript, and mobile development.
+? Speakers: Experts in FLOSS technologies.
+? Organizers: FLOSSK, University of Prishtina, and partners.
+? Sponsors: Royal Norwegian Ministry of Foreign Affairs, UNICEF, IPKO Foundation.
+
+4. Advocacy and Collaboration
+? Firefox 6 Localization in Albanian
+
+? Partnered with Mozilla to translate browser interfaces and documentation.
+? Support for Community Contributions
+
+? Encouraged volunteers to blog, translate, and promote FLOSSK initiatives.
+? International Collaboration
+
+? Engaged with Openlabs in Albania and KIKA Hacklab in Skopje to foster regional partnerships.
+
+5. Publications and Thought Leadership
+? "We, the Web Kids" by Piotr Czerski
+
+? Date: May 17, 2012.
+? Themes: Digital freedom, the integration of the internet into daily life, and the evolution of the "Web Generation."
+? Public Lecture with Peter Sunde
+
+? Date: May 24, 2012.
+? Topic: The importance of sharing and bypassing traditional distribution channels.
+
+6. Recognitions and Community Impact
+? ITTF 2012 Participation
+? Showcased innovative projects like 3D printing, Arduino kits, and transportation solutions.
+? Awarded a certificate for successful engagement.
+
+Get Involved
+? Volunteer Opportunities:
+? Participate in FLOSSK events, translate content, and contribute to projects like OpenStreetMap and Wikipedia.
+? Contact FLOSSK:
+? Email: [email protected]
+? Website: FLOSSK.org
+For more details, visit the FLOSSK gallery or social media pages.
+
+https://www.facebook.com/KosovoInnovations/

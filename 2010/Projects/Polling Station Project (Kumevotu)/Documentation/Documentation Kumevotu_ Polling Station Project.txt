@@ -1,0 +1,24 @@
+Documentation
+Title: Kumevotu: Polling Station Project
+Project Description:
+ On December 12, 2010, FLOSSK, with financial support from UNICEF Innovations Lab, completed the Kumevotu project to assist voters in Kosovo's Parliamentary Elections of 2010. The project aimed to make it easier for people, particularly the younger generation, to locate their polling stations via an interactive website, kumevotu.info. Using OpenStreetMap (OSM), the website provided precise polling station locations after users input personal details. The project addressed a significant need, especially in larger cities, where voters were often assigned polling stations far from their vicinity.
+Activities:
+ Key activities:
+? Conducted training courses on OpenStreetMap (OSM) and Geographic Information Systems (GIS) for students from three cities in Kosovo.
+? Collected, edited, and entered Points of Interest (POIs) for schools in major cities into OSM.
+? Converted official voter lists from PDF to CSV format for digital use.
+? Developed and launched the kumevotu.info website, which garnered 1,800 visits during the elections.
+? Planned to release the website code under a GPL license on GitHub.
+Photos:
+ [Photo gallery link not provided]
+Beneficiaries:
+ The project directly benefited voters in Kosovo, particularly young people, by simplifying the process of locating polling stations and increasing accessibility to election information.
+Partners:
+? UNICEF Innovations Lab
+Budget:
+ €
+Project Duration:
+ Two weeks in December 2010
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+

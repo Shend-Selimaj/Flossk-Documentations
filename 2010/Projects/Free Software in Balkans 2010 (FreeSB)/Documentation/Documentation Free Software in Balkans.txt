@@ -1,0 +1,23 @@
+Documentation
+Title:
+Free Software in Balkans (FreeSB) 2010
+Project Description:
+On September 11-12, 2010, FLOSS Albania and the University of Vlora hosted the first Free Software in Balkans (FreeSB) conference in Vlora, Albania. This groundbreaking event brought together professionals, academics, and enthusiasts from across the region to share their vision of Free and Open Source Software (FOSS) as a community-driven resource. With support from FLOSS Kosova, the conference aimed to establish a recurring Balkan-wide event, featuring lectures and presentations on the latest developments in FOSS, with a particular focus on public administration and collaborative software development.
+Activities:
+Key activities:
+? Organized the inaugural Free Software in Balkans (FreeSB) conference.
+? Hosted lectures and presentations by regional and international FOSS experts.
+? Focused on public administration and open-source software adoption.
+? Created "Software Hacking Rooms" to plan and collaborate on various projects.
+Photos:
+[Photo gallery link not provided]
+Beneficiaries:
+The project benefited regional professionals, academics, and software enthusiasts by fostering collaboration, encouraging open-source development, and showcasing the latest innovations in the field.
+Partners:
+? FLOSS Albania
+? University of Vlora
+Budget:
+€
+Project Duration:
+September 11-12, 2010
+

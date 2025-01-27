@@ -1,0 +1,25 @@
+Documentation
+Title:
+ Mapping Public Facilities of Kosovo
+Project Description:
+ The "Mapping Public Facilities of Kosovo" project, supported by UNICEF Innovations Lab, aimed to map all existing public facilities in Kosovo. Despite challenges due to limited information from official sources, the project succeeded with the support of InformataZyrtare.org, a free software project that provided essential data. The mapping focused on all seven major cities in Kosovo, and the gathered data was made freely accessible on OpenStreetMap (www.osm.org). The project was carried out by eight teams of young people trained in data gathering and map editing.
+Activities:
+ Key activities:
+? Organized eight teams to gather data and edit maps.
+? Provided training for teams on mapping processes and expectations.
+? Mapped public facilities across seven major cities in Kosovo.
+? Published data on OpenStreetMap and planned further distribution as CSV files.
+Photos:
+ [Photo gallery link not provided]
+Beneficiaries:
+ The project benefited the citizens of Kosovo by providing accessible and up-to-date information on public facilities, promoting transparency and improving access to public services. It also contributed to the development of local open data practices.
+Partners:
+? UNICEF Innovations Lab
+? InformataZyrtare.org
+Budget:
+ [Budget information not provided]
+Project Duration:
+ January 2012
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+

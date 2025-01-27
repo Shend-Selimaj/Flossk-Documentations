@@ -1,0 +1,54 @@
+2013 Activities
+2013 Activities
+
+1. Workshop: Visualizing Open Data to Address Global Issues
+? Date & Location:
+
+? July 25, 2013, Innovation Centre Kosovo (ICK).
+? Organizers and Speakers:
+
+? Alex and Margo from Open Steps, with support from FLOSSK and ICK.
+? Purpose:
+
+? Raise awareness of open data and open knowledge.
+? Teach participants to create visualizations of complex issues using open-source tools.
+? Workshop Highlights:
+
+? Key Topics:
+¦ Introduction to open data and its role in transparency and societal progress.
+¦ Practical demonstrations of building visualizations with free online tools.
+¦ Open discussions on pressing topics like politics, education, and environmental challenges.
+? Skills Taught:
+¦ How to identify and use open data sources, such as the World Bank.
+¦ Quick visualization techniques for presenting data insights.
+? Target Audience:
+¦ Individuals passionate about open-source technologies, data-driven research, and global social issues.
+
+
+2. CryptoParty
+? Date & Location:
+
+? October 29, 2013, Innovation Centre Kosovo (ICK).
+? Purpose:
+
+? Educate participants on cryptographic tools and principles to enhance online privacy and security.
+? Provide hands-on experience with basic cryptographic tools.
+? Event Agenda:
+
+? Introduction:
+¦ Overview of CryptoParties and their mission to promote public knowledge about cryptography.
+? Tools Demonstrated:
+¦ Tor (for anonymous browsing).
+¦ Public Key Encryption (PGP/GPG).
+¦ Off The Record (OTR) Messaging for secure communication.
+¦ Bitcoin (cryptocurrency as a use case for cryptographic principles).
+? Interactive Learning:
+¦ Participants brought laptops and smartphones to experiment with tools during live demos.
+
+
+Key Themes Across Both Events
+? Promotion of open knowledge to empower communities with access to information and tools.
+? Emphasis on practical, hands-on learning using free and open-source technologies.
+? Building awareness of societal issues through data transparency and privacy.
+
+

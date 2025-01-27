@@ -1,0 +1,25 @@
+Documentation
+Title: Software Freedom Kosova 2009
+Project Description:
+ The first annual conference of Software Freedom Kosova was held on August 29-30, 2009, at the Faculty of Engineering, University of Pristina. Organized by Free Libre and Open Source Software Kosova (FLOSSK) and the University of Pristina, the event aimed to promote Free and Open Source Software (FOSS) in Kosovo through knowledge sharing and networking opportunities.
+Activities:
+ Key activities:
+? Organized keynote sessions featuring prominent FOSS figures.
+? Hosted workshops and discussions on Free and Open Source Software topics.
+? Facilitated networking opportunities among participants.
+? Conducted an opening ceremony with representatives from academia, government, and FLOSSK.
+Photos:
+
+
+Beneficiaries:
+ This project directly benefited software developers, students, academics, and professionals interested in Free and Open Source Software, as well as the broader technology and educational communities in Kosovo.
+Partners:
+? Free Libre and Open Source Software Kosova (FLOSSK)
+? University of Pristina
+Budget:
+ €
+Project Duration:
+ August 29-30, 2009
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+

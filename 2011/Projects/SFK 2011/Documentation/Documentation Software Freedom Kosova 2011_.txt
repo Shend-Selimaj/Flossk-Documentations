@@ -1,0 +1,24 @@
+Documentation
+Title:
+ Software Freedom Kosova 2011 (SFK11)
+Project Description:
+ On November 12, 2011, FLOSS Kosova hosted the third annual Software Freedom Kosova (SFK11) conference in Prishtina. The conference focused on the theme "Doing Business with Free Software" and gathered professionals, academics, and enthusiasts who advocated for Free/Libre and Open Source Software (FLOSS). SFK11 highlighted the use of free software as a commercial advantage and promoted its potential for low-cost, accessible alternatives to proprietary software. The event also aimed to position Kosovo as a regional hub for FLOSS and to train local communities on the latest developments in free software and social collaboration tools.
+Activities:
+ Key activities:
+? Organized a conference focused on business applications of Free and Open Source Software.
+? Hosted speakers from the business and technology sectors, highlighting the use of FLOSS in commercial development projects.
+? Presented examples of companies leveraging FLOSS in the European outsourcing market.
+? Provided resources for attendees, including a map of Points of Interest (POIs) in Prishtina and a downloadable conference schedule.
+Photos:
+ [Photo gallery link not provided]
+Beneficiaries:
+ The conference benefited local businesses, IT professionals, students, and enthusiasts by promoting the adoption of FLOSS, demonstrating its economic potential, and providing training on the latest developments in software and collaboration tools.
+Partners:
+? [Partner details not provided]
+Budget:
+ €
+Project Duration:
+ November 12, 2011
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+

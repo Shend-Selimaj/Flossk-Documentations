@@ -1,0 +1,202 @@
+Documentation
+Title: FLOSSK Activities (2016)
+
+Productive Weekend Mapping Gjilan
+Project Description:
+A collaborative mapping event with students from SHMU Abaz Ajeti in Gjilan. The objective was to complete the city's map in OpenStreetMap within a weekend, enhancing local geographical data.
+Activities:
+? Date & Location: December 17-18, 2016, Gjilan, Kosovo
+? Goal: To map Gjilan in OpenStreetMap, filling in key areas of the city's map.
+? Format:
+? Hands-on mapping activity led by teacher Ismet Azizi.
+? Collaboration with local students from SHMU Abaz Ajeti.
+? Outcome:
+? Successfully mapped various parts of the city.
+? The map was completed within the weekend.
+
+
+Beneficiaries:
+? Local residents of Gjilan
+? Students and teachers involved in the mapping
+? OpenStreetMap community
+Partners:
+? SHMU Abaz Ajeti
+? FLOSSK
+Project Duration:
+Weekend event (2 days)
+
+Geography Awareness Workshop
+Project Description:
+A workshop held during Geography Awareness Week to introduce OpenStreetMap and the importance of electronic mapping to students and the general public.
+Activities:
+? Date & Location: November 17, 2016, Don Bosko School, Prishtina
+? Speaker: Yll Ferizi
+? Goal: To increase awareness about OpenStreetMap and demonstrate its uses.
+? Format:
+? Presentation by Yll Ferizi on electronic maps and OpenStreetMap.
+? Hands-on guidance on contributing to the platform.
+? Engagement:
+? Interactive session with students and teachers.
+
+
+Beneficiaries:
+? Students and teachers of Don Bosko School
+? OpenStreetMap users and contributors
+Partners:
+? FLOSSK
+
+Project Duration:
+One-day event
+
+Editathon on Cultural Monuments
+Project Description:
+An event focused on creating and improving Wikipedia articles about protected cultural monuments in Kosovo, as well as expanding content in Albanian, Czech, and German.
+Activities:
+? Date & Location: November 12-13, 2016, Prishtina, Kosovo
+? Goal: To improve the coverage of cultural monuments on Wikipedia and increase multilingual content.
+? Format:
+? Volunteers worked to create and enhance articles on monuments.
+? Participants contributed to articles in Albanian, Czech, and German.
+? Outcome:
+? Over 300 new articles were created.
+
+
+Beneficiaries:
+? Local cultural heritage organizations
+? Wikipedia readers and contributors
+? Multilingual audiences
+Partners:
+? FLOSSK
+
+Project Duration:
+2 days
+
+Open Datathon
+Project Description:
+A two-day event held to use open data visualization to address societal issues. Participants were trained on data processing and worked on real-life projects with mentor guidance.
+Activities:
+? Date & Location: November 19-20, 2016, Prishtina Hackerspace
+? Organizers: IPKO Foundation, Girls Coding Kosova, Open Data Kosovo, FLOSSK
+? Goal: To leverage open data for visualizing and solving societal challenges.
+? Format:
+? A one-day training on data processing tools and techniques.
+? Participants presented their open data projects with mentor support.
+? Outcome:
+? Several projects were presented, showcasing data-driven solutions to real-world issues.
+
+
+Beneficiaries:
+? Local communities tackling societal issues
+? Participants in open data projects
+Partners:
+? IPKO Foundation
+? Girls Coding Kosova
+? Open Data Kosovo
+? FLOSSK
+
+Project Duration:
+2 days
+
+Monument Editathon
+Project Description:
+A FLOSSK-organized editathon focused on cultural monuments, utilizing images from the Wiki Loves Monuments contest to create and enhance articles on Wikipedia.
+Activities:
+? Date & Location: October 27, 2016, Prishtina, Kosovo
+? Goal: To expand and improve Wikipedia articles on cultural monuments in Kosovo.
+? Format:
+? Editing and content creation using images from the Wiki Loves Monuments contest.
+? Participants from outside Prishtina were offered travel stipends to join.
+
+
+Beneficiaries:
+? Local communities interested in preserving cultural heritage
+? Wikipedia readers and contributors
+Partners:
+? FLOSSK
+? Wiki Loves Monuments
+
+Project Duration:
+1 day
+
+Wiki Loves Monuments Presentation Tour
+Project Description:
+A tour across Kosovo to promote the Wiki Loves Monuments photography contest and encourage documentation of cultural heritage.
+Activities:
+? Date & Location: September 16-21, 2016, Mitrovica, Prizren, Prishtina, Gjakova, Ferizaj, Gjilan
+? Goal: To raise awareness and encourage participation in the Wiki Loves Monuments contest.
+? Format:
+? A series of presentations in key cities.
+? Promoted the contest and the importance of documenting cultural heritage.
+
+
+Beneficiaries:
+? Local photographers and cultural heritage enthusiasts
+? Participants in the Wiki Loves Monuments contest
+Partners:
+? FLOSSK
+? Wiki Loves Monuments
+
+Project Duration:
+6 days (Multiple locations)
+
+Godot Game Development Workshops
+Project Description:
+Weekly workshops on game development using the Godot Engine, aimed at providing practical skills for aspiring game developers.
+Activities:
+? Date & Location: Starting June 7, 2016, Prishtina Hackerspace (ongoing)
+? Goal: To teach participants the basics of game development using the Godot Engine.
+? Format:
+? Weekly game development sessions every Thursday.
+? Participants could register online to join.
+
+
+Beneficiaries:
+? Aspiring game developers
+? Local community interested in game design
+Partners:
+? FLOSSK
+? Godot Engine
+Project Duration:
+Ongoing (Starting June 7, 2016)
+
+Wikimedia CEE Spring Contest
+Project Description:
+Kosovo's participation in the Wikimedia CEE Spring Contest aimed at creating and translating articles about Central and Southeastern Europe.
+Activities:
+? Date & Location: April-May 2016, Amfiteatri, Faculty of Education, Prishtina
+? Goal: To expand knowledge about Central and Southeastern Europe on Wikimedia platforms.
+? Format:
+? Participants created and translated over 100 articles in various languages.
+
+
+Beneficiaries:
+? Wikipedia readers and contributors
+? Participants in the contest
+Partners:
+? FLOSSK
+Project Duration:
+April-May 2016
+
+Outreachy Info Session
+Project Description:
+An info session to introduce the Outreachy program and provide guidance on how to get involved in open-source projects.
+Activities:
+? Date & Location: August 15, 2016, Prishtina Hackerspace
+? Speaker: Renata Gegaj
+? Goal: To inform participants about the Outreachy program and how to apply.
+? Format:
+? A presentation by Renata Gegaj about the program.
+? Insights on getting involved in open-source projects and internships.
+
+
+Beneficiaries:
+? Individuals interested in open-source contributions
+? Participants seeking opportunities in open-source internships
+Partners:
+? FLOSSK
+Project Duration:
+1-day event
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+

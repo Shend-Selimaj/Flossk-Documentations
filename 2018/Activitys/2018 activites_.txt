@@ -1,0 +1,202 @@
+﻿Documentation
+
+OpenStreetMap User Group and Trainings
+Project Description:
+ In December 2018, FLOSSK announced plans to offer OpenStreetMap training sessions and to launch a user group in 2019. This activity capitalized on the growing interest in mapping and community engagement within Kosovo.
+Key Activities:
+● Date & Location: December 21, 2018, Pristina, Kosovo
+● Goal: To foster a user group for OpenStreetMap enthusiasts and provide training sessions to enhance mapping skills.
+● Format:
+○ Announcement of upcoming training sessions for OpenStreetMap.
+○ Establishment of a user group to encourage community participation in mapping activities.
+● Outcome:
+○ Increased engagement in OpenStreetMap within the local community.
+○ Preparation for formal training sessions in 2019.
+
+Beneficiaries:
+● OpenStreetMap enthusiasts
+● Local mapping and tech communities
+Partners:
+● FLOSSK
+Budget:
+ € (Specific budget details to be included if available)
+Project Duration:
+ Ongoing (Preparation for 2019 sessions)
+
+TechCamp Kosovo Final Event
+Project Description:
+ The final event of TechCamp Kosovo 2018 brought together experts and innovators to discuss key topics such as participatory democracy, anticorruption efforts in healthcare, and training for civil society organizations (CSOs) in data handling.
+Key Activities:
+● Date & Location: December 14, 2018, Pristina, Kosovo
+● Speakers:
+○ Bojana Bosanac (CINS Serbia)
+○ Denisa Canameti (Together for Life NGO)
+○ Tomáš Rákos and others
+● Goal: To showcase seven projects focused on digital tools for promoting democracy, transparency, and tackling corruption.
+● Format:
+○ Guest speakers discussed topics related to civic engagement, data handling, and anti-corruption efforts.
+○ The event featured project showcases and discussions on technology's role in addressing political and social challenges.
+● Outcome:
+○ Insights on how technology can empower democracy and transparency.
+○ Networking opportunities for local and international participants.
+○ Increased awareness of CSO capabilities in data handling.
+
+Beneficiaries:
+● Local civil society organizations (CSOs)
+● Technology enthusiasts
+● Participants in the TechCamp program
+Partners:
+● FLOSSK
+● U.S. Embassy
+● Other guest speakers
+Budget:
+ € (Specific budget details to be included if available)
+Project Duration:
+ One-day event
+
+Local Youth TechCamp
+Project Description:
+ This event was organized by FLOSSK to empower youth through technology and civic engagement. It aimed at inspiring young people to use technology to engage with and improve their communities.
+Key Activities:
+● Date & Location: December 14, 2018, American Corner, Pristina
+● Goal: To promote youth empowerment through technology and engage them in civic activities.
+● Format:
+○ Activities focused on how youth can use technology for civic engagement.
+○ Discussions and workshops on various tech tools available to youth in Kosovo.
+● Outcome:
+○ Increased youth participation in technology and civic engagement.
+○ Empowerment of young people to take active roles in their communities through technology.
+
+Beneficiaries:
+● Local youth
+● Tech enthusiasts
+Partners:
+● FLOSSK
+Budget:
+ € (Specific budget details to be included if available)
+Project Duration:
+ One-day event
+
+Library Scanning Demonstration
+Project Description:
+ This demonstration, hosted by FLOSSK, showcased the capabilities of large-format scanning using a semi-automatic scanner, aimed at promoting access to digitized resources in libraries.
+Key Activities:
+● Date & Location: December 11, 2018, Xhemajl Mustafa School Library, Pristina
+● Goal: To demonstrate the use of large-format scanning for educational and archival purposes.
+● Format:
+○ Live demonstration of a semi-automatic scanner.
+○ Discussions on digitization in libraries and archives.
+● Outcome:
+○ Increased understanding of digitization tools in educational institutions.
+○ Empowerment of libraries to utilize new technologies for resource management.
+
+Beneficiaries:
+● Local educational institutions and libraries
+● Tech enthusiasts
+Partners:
+● FLOSSK
+● FARË
+● Culture for Change
+Budget:
+ € (Specific budget details to be included if available)
+Project Duration:
+ One-day event
+
+BalkanConnect2018 Policy Hackathon
+Project Description:
+ The BalkanConnect2018 Policy Hackathon, co-organized by FLOSSK and the European Fund for the Balkans, was an event designed to bring together innovators to tackle pressing political and social challenges in the Balkans.
+Key Activities:
+● Date & Location: March 11, 2018, Pristina, Kosovo
+● Goal: To address regional political and social challenges through innovative policy solutions.
+● Format:
+○ Hackathon format focused on generating solutions for regional challenges.
+○ Participants worked in teams to propose actionable solutions to local political issues.
+● Outcome:
+○ Development of innovative policy ideas to address social and political challenges in the Balkans.
+○ Networking and collaboration among participants from different sectors.
+
+Beneficiaries:
+● Local innovators and policymakers
+● Participants focused on Balkan political and social issues
+Partners:
+● FLOSSK
+● European Fund for the Balkans
+Budget:
+
+Project Duration:
+ One-day event
+
+Doku.tech DIY Fair
+Project Description:
+ FLOSSK participated in the Doku.tech DIY Fair, held in Pristina, alongside Pristina Hackerspace and the Radio Amateur Association of Kosovo. The event aimed to promote open-source technologies and DIY projects.
+Key Activities:
+● Date & Location: June 9, 2018, Pristina, Kosovo
+● Goal: To showcase open-source technologies and DIY projects to the local community.
+● Format:
+○ Displayed open-source technology solutions and DIY projects.
+○ Interactive sessions allowing participants to engage with the projects.
+● Outcome:
+○ Increased awareness of open-source technologies in the local community.
+○ Encouragement of DIY culture in Kosovo.
+Photos:
+
+Beneficiaries:
+● Local tech enthusiasts
+● Open-source community
+Partners:
+● FLOSSK
+● Pristina Hackerspace
+● Radio Amateur Association of Kosovo
+Budget:
+
+Project Duration:
+ One-day event
+
+Internship Opportunity: Social Media and Events
+Project Description:
+ FLOSSK offered a six-month paid internship for individuals interested in social media strategy, event coordination, and general administrative support for the SFK 2019 conference.
+Key Activities:
+● Date & Location: November 2018, Pristina, Kosovo
+● Goal: To recruit an intern to assist with the Software Freedom Kosova (SFK) 2019 conference and related activities.
+● Format:
+○ Internship offering experience in social media and event coordination.
+○ Focus on technology-related tasks and conference preparation.
+● Outcome:
+○ Successful recruitment of an intern to assist with SFK 2019 activities.
+○ Contribution to the successful organization of the SFK conference.
+
+Beneficiaries:
+● FLOSSK
+● The interns
+Partners:
+● FLOSSK
+Budget:
+
+Project Duration:
+ Six months
+
+Internship Opportunity: Technology
+Project Description:
+ FLOSSK offered a six-month paid internship focused on website management, technological solutions, and event support for the SFK 2019 conference.
+Key Activities:
+● Date & Location: November 2018, Pristina, Kosovo
+● Goal: To recruit a technology-focused intern to assist with web technologies and event management.
+● Format:
+○ Internship offering experience in technology solutions and event coordination.
+○ Support for FLOSSK's website and SFK 2019 conference.
+● Outcome:
+○ Recruitment of a tech-savvy intern for the internship role.
+○ Enhanced technological solutions for SFK 2019 events.
+
+Beneficiaries:
+● FLOSSK
+● The interns
+Partners:
+● FLOSSK
+Budget:
+
+Project Duration:
+ Six months
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+

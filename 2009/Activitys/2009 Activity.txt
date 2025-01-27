@@ -1,0 +1,39 @@
+2009 Activity
+1. Presentation by MySociety.org
+? Type: Activity
+? Date: December 9, 2009
+? Location: Pristina
+? Organizer: MySociety.org, a UK-based e-democracy organization and charity (UK Citizens Online Democracy).
+? Purpose:
+? Promote transparency and democracy through Free/Open Source Software (FOSS).
+? Showcase tools with real-world social impact.
+? Encourage the adoption of Free/Open Source licensing practices.
+? Key Highlights:
+? Funded projects were required to follow Free/Open Source licensing and development practices.
+? FLOSSK was positioned as an innovator in applying web technologies for social benefit in Kosovo.
+? Presentation by Tony Bowden on the role of FOSS in enhancing government transparency.
+? FLOSSK members introduced their projects and contributions to the FOSS community.
+? Photos: Available from the event.
+
+2. Software Freedom Day (SFD)
+? Type: Activity
+? Date: October 22, 2009
+? Location: "Don Bosko" Electro Technical Lyceum, Pristina
+? Purpose:
+? Celebrate Free Software globally and raise awareness about its benefits.
+? Details:
+? FLOSSK organized a mini-conference for students and professors.
+? Topics covered:
+¦ Free and Open Source Software (FOSS).
+¦ GNU/Linux operating system.
+¦ OpenStreetMap project.
+¦ Wikipedia contributions and the Free Software philosophy.
+? Speakers:
+¦ Taulant Ramabaja: Presented on Wikimedia and Wikipedia.
+¦ Gent Thaci: Discussed the OLPC (One Laptop per Child) project.
+¦ Ardian Haxha: Delivered an introduction to GNU/Linux.
+¦ Valdrin Maliqi: Spoke about FLOSSK and the OpenStreetMap project.
+? Canonical's Ubuntu 9.10 CDs were distributed to attendees.
+? Photos: Available in the FLOSSK Gallery.
+
+

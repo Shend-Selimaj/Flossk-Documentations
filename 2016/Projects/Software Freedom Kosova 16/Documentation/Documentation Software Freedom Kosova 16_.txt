@@ -1,0 +1,48 @@
+Documentation 
+
+
+Title: Software Freedom Kosova 16
+	
+Project description:
+Organized by FLOSSK, the seventh annual Software Freedom Kosova conference was a major technology event focusing on free and open-source software. SFK16 featured 43 speakers from 18 countries, offering 48 lectures and workshops over three days. The event included a main presentation day and two additional days of hands-on workshops held at ICK and Prishtina Hackerspace. The conference provided a platform for participants to engage with influential tech figures, develop technical skills, and generate new ideas.
+
+Activities:
+Key activities: 
+
+? Held 17 hours of programming across 48 sessions
+? Organized 8 project demonstration tables
+? Conducted workshops at ICK, RIT Kosovo, and Prishtina Hackerspace
+? Featured international and local expert speakers
+
+
+Photos:
+
+
+Beneficiaries:
+
+The beneficiaries of SFK16 included technology enthusiasts, students, and professionals from Kosovo and abroad. The conference helped foster a broader understanding of free and open-source software, supported the development of local talent, and facilitated networking between local businesses, global speakers, and participants.
+
+
+Partners:
+
+? Ministry of Education, Science, and Technology (MASHT)
+? Innovation Center Kosovo (ICK)
+? Prishtina Hackerspace
+
+Budget:
+€2,012.50
+
+
+Project duration:
+
+October 21-23, 2016
+
+
+
+
+
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
+
+

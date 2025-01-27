@@ -1,0 +1,23 @@
+Documentation
+Title:  The Launch Party of the "Prishtina Buses" Project
+Project Description:
+ The "Prishtina Buses" project, officially launched on January 12, 2012, at UNICEF Innovations Lab Kosovo, aimed to provide citizens with easy access to public transportation information in Prishtina. The project created an online platform offering details about bus schedules, routes, and ticket prices. Developed by FLOSSK members, it utilized GPS technology and mapping software to track and display accurate data. The initiative sought to improve public transportation usage, reduce city pollution, and inspire similar projects across Kosovo.
+Activities:
+ Key activities:
+? Tracked bus routes and stops using Garmin GPS devices.
+? Transferred data to map software for integration into an online platform.
+? Developed and launched a user-friendly website.
+? Conducted the launch event with a presentation and discussions.
+Photos:
+ 
+Beneficiaries:
+ The project benefited citizens of Prishtina by providing a reliable and accessible public transportation information system. It also inspired efforts toward improved urban mobility and sustainability in other cities.
+Partners:
+? UNICEF Innovations Lab Kosovo
+Budget:
+ €500
+Project Duration:
+ January 12, 2012
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+
