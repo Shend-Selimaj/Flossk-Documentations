@@ -14,8 +14,6 @@ Beneficiaries:
 The course directly benefited young learners in Kosovo by equipping them with foundational knowledge of Free Software and GNU/Linux, fostering their skills in technology and open-source development.
 Partners:
 ? Information Development Initiative (IDI)
-Budget:
-€
 Project Duration:
 February - June 2009
 
