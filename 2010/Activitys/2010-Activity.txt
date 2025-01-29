@@ -1,5 +1,4 @@
 2010 Activity
-2010 Activity
 1. KDE SC 4.4 Release Party
 ? Type: Activity
 ? Date: February 9, 2010
@@ -26,29 +25,29 @@
 ? Founder of the GNU Project and the Free Software Foundation.
 ? Creator of the GNU General Public License (GPL).
 ? Recipient of notable awards, including:
-¦ MacArthur Fellowship (1990).
-¦ EFF Pioneer Award (1998).
+Â¦ MacArthur Fellowship (1990).
+Â¦ EFF Pioneer Award (1998).
 https://archive.org/details/RMS_PRISHTINA
 
 
-3. FLOSS Camp in Shëngjin
+3. FLOSS Camp in ShÃ«ngjin
 ? Type: Activity
 ? Date: July 17-18, 2010
-? Location: Shëngjin, Albania
+? Location: ShÃ«ngjin, Albania
 ? Organizers: FLOSSK and FLOSS Albania
 ? Purpose:
 ? Unite Free Software enthusiasts and contributors for collaborative learning.
 ? Details:
 ? Included group discussions on Free Software topics:
-¦ Wikimedia projects.
-¦ OpenStreetMap initiatives.
+Â¦ Wikimedia projects.
+Â¦ OpenStreetMap initiatives.
 ? Featured presentations:
-¦ James Michael DuPont (co-founder of FLOSS Kosovo).
-¦ Luca Pescatore (monetizing Free Software skills).
+Â¦ James Michael DuPont (co-founder of FLOSS Kosovo).
+Â¦ Luca Pescatore (monetizing Free Software skills).
 ? Outcomes:
-¦ Inspired new contributions to OpenStreetMap in Albania.
-¦ Initiated translations for Wikimedia projects.
-¦ Laid plans for future conferences in Albania and Kosovo.
+Â¦ Inspired new contributions to OpenStreetMap in Albania.
+Â¦ Initiated translations for Wikimedia projects.
+Â¦ Laid plans for future conferences in Albania and Kosovo.
 Photo[1]
 
 4. Fedora 13 Release Party
@@ -71,8 +70,8 @@ Photo[1]
 ? Engaged with local companies and organizations.
 ? Presented the benefits and potential of FOSS.
 ? Announced upcoming events:
-¦ Richard Stallman's visit.
-¦ FLOSSK's annual conference.
+Â¦ Richard Stallman's visit.
+Â¦ FLOSSK's annual conference.
 ? Media: Photos and video interviews available via the FLOSSK Gallery and Radio Television of Kosovo.
 
 6. Software Freedom Day (SFD) in Gjakova
@@ -96,9 +95,9 @@ Photo[1]
 ? Discussions on Mozilla tools like Firefox, Thunderbird, and Add-ons.
 ? Progress updates on Firefox 4.0 localization efforts.
 ? Speakers:
-¦ Heroid Shehu.
-¦ Jon Berisha.
-¦ Endrit Vula.
+Â¦ Heroid Shehu.
+Â¦ Jon Berisha.
+Â¦ Endrit Vula.
 
 8. Ubuntu 10.04 LTS Release Party
 ? Type: Activity
