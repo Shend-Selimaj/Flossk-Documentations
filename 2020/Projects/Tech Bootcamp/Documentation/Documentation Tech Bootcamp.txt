@@ -1,44 +1,23 @@
-﻿Documentation 
+﻿Tech Bootcamp
 
+Project Duration: July 1, 2020 – May 30, 2021
 
-Title: Tech Bootcamp
-	
-Project description:
+Project Description:
+The Tech Bootcamp project by FLOSSK aimed to bridge the skills gap in Kosovo’s IT sector by providing intensive training for youth. It featured two tracks: a general track for high school students focusing on basic web development and a specialized track for university students and recent graduates covering Java and JavaScript frameworks. The project aimed to prepare participants for entry-level positions in local software firms.
 
-The Tech Bootcamp project by FLOSSK aimed to bridge the gap between market needs and the educational system in Kosovo by providing intensive, bootcamp-style training to youth. It featured two main tracks: a generic track for high school students teaching basic web development skills, and a specialized track for university students and recent graduates focused on specific programming technologies. The generic track aimed to train 140 high school students, while the specialized track targeted 24 university students, preparing them for entry-level positions in local software development firms. The project sought to address the lack of employable skills among youth entering the IT sector and to establish a pipeline of trained young professionals ready to meet the demands of the job market.
 Activities:
-Key activities: 
 
-● Conducted a series of 8 weekend training days for high school students on the basics of web programming.
-● Ran two intensive bootcamps for university students on Java and a JavaScript framework for web development.
-● Provided career orientation for 140 high school students through IT clubs organized by the ASSET program.
-● Organized internship placements with local software development firms for university students completing the bootcamps.
-
-Photos:
-
+Conducted 8 weekend training sessions on web programming for high school students.
+Organized two intensive bootcamps on Java and JavaScript frameworks for university students.
+Provided career orientation through IT clubs under the ASSET program.
+Facilitated internship placements with local software firms for bootcamp graduates.
 
 Beneficiaries:
 
-The project benefited 140 high school students (ages 16-18), who learned the basics of web development, and 24 university students (ages 18-23), who underwent intensive web programming training to prepare for entry-level positions in the IT sector.
+140 high school students (ages 16-18): Gained foundational web development skills.
+24 university students (ages 18-23): Received specialized programming training and career support.
+
 Partners:
 
-● ASSET Program (USAID-funded) – Collaboration with IT clubs in high schools.
-● Local software development firms – Providing internship placements for bootcamp graduates.
-
-
-Budget:
-€48,512 
-
-Project duration:
-July 1, 2020 - May 30, 2021
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+ASSET Program (USAID-funded): Collaboration with IT clubs in high schools.
+Local software development firms: Offered internship placements for bootcamp graduates.

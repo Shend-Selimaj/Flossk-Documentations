@@ -1,44 +1,18 @@
-﻿Documentation 
+﻿Title: Kosovo Cyber Team
 
-
-Title: Kosovo Cyber Team
-	
-Project description:
-The Kosovo Cyber Team was a national initiative that brought together students, young professionals, and cybersecurity enthusiasts to advance cybersecurity knowledge and skills in Kosovo. The team focused on building a collaborative community that promoted education, awareness, and innovation in cybersecurity. Through activities such as training, workshops, and competitions, it equipped members with practical experience and technical expertise. The Kosovo Cyber Team also represented the country in international competitions, including the European Cybersecurity Challenge (ECSC), where they competed and showcased their skills on a continental stage, contributing to Kosovo's growing cybersecurity ecosystem.
-We were here as a fiscal sponsor  
+Project Description:
+The Kosovo Cyber Team was a national initiative focused on advancing cybersecurity knowledge and skills in Kosovo by bringing together students, young professionals, and cybersecurity enthusiasts. The initiative promoted education, awareness, and innovation, providing hands-on experience through training, workshops, and competitions. The team represented Kosovo in international events such as the European Cybersecurity Challenge (ECSC), contributing to the growth of the country’s cybersecurity ecosystem. FLOSSK acted as the fiscal sponsor for this project.
 
 Activities:
-Key activities: 
+Key activities:
 
-● Organized workshops that facilitated hands-on experience in tackling cybersecurity challenges.
-● Conducted multiple training sessions on various cybersecurity topics to enhance participants' skills.
-● Developed partnerships with local and international organizations to strengthen community engagement and resource sharing.
-● Held competitions to promote friendly rivalry and practical application of cybersecurity knowledge.
-
-Photos:
-
-
-
+Organized hands-on workshops tackling cybersecurity challenges
+Conducted multiple training sessions on various cybersecurity topics
+Developed partnerships with local and international organizations
+Held competitions to apply cybersecurity knowledge in practical settings
 Beneficiaries:
-Participants from universities and technical schools across Kosovo benefited from the skills development and networking opportunities provided by the Kosovo Cyber Team.
+Participants from universities and technical schools across Kosovo gained valuable skills and networking opportunities.
 
-Partners:
-
-● N/A
-
-Budget:
-€15,100.00
-
-Project duration:
-August 2024 – December 2024 
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
+Project Duration:
+August 2024 – December 2024
 

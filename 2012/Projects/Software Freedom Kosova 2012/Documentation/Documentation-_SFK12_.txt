@@ -1,26 +1,27 @@
-Documentation
 Title:
- Software Freedom Kosova 2012 (SFK12)
-Project Description:
- Software Freedom Kosova 2012 marked the fourth annual conference on Free/Libre and Open Source Software (FLOSS), held from September 7-9, 2012, at the University of Prishtina and STIKK-KS office. The event focused on open web technologies, such as HTML5, JavaScript, and mobile web development. It brought together international experts, local professionals, and enthusiasts to discuss the latest developments in FLOSS and its application in the technology sector. The conference aimed to promote knowledge sharing, professional development, and collaboration between participants from Kosovo and beyond.
-Activities:
- Key activities:
-? Organized lectures and presentations by international and local experts in web technologies and FLOSS.
-? Hosted networking events to foster collaboration between participants.
-? Conducted discussions on the practical applications of open-source technologies, particularly in web and mobile development.
-? Facilitated hands-on workshops to introduce the latest FLOSS tools and methodologies.
-Photos:
- [Photo gallery link not provided]
-Beneficiaries:
- The conference benefited developers, students, technology enthusiasts, and businesses in Kosovo by providing them access to expert knowledge, cutting-edge tools, and a platform to network with industry leaders.
-Partners:
-? IPKO Foundation
-? University of Prishtina
-? Royal Norwegian Ministry of Foreign Affairs
-? UNICEF Innovations Lab Kosovo
-Budget:
- € [Budget details not provided]
-Project Duration:
- September 7-9, 2012
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+Software Freedom Kosova 2012 (SFK12)
 
+Project Description:
+Software Freedom Kosova 2012 marked the fourth annual conference on Free/Libre and Open Source Software (FLOSS), held from September 7-9, 2012, at the University of Prishtina and STIKK-KS office. The event focused on open web technologies, such as HTML5, JavaScript, and mobile web development. It brought together international experts, local professionals, and enthusiasts to discuss the latest developments in FLOSS and its application in the technology sector. The conference aimed to promote knowledge sharing, professional development, and collaboration between participants from Kosovo and beyond.
+
+Activities:
+Key activities:
+
+Organized lectures and presentations by international and local experts in web technologies and FLOSS.
+Hosted networking events to foster collaboration between participants.
+Conducted discussions on the practical applications of open-source technologies, particularly in web and mobile development.
+Facilitated hands-on workshops to introduce the latest FLOSS tools and methodologies.
+Beneficiaries:
+The conference benefited developers, students, technology enthusiasts, and businesses in Kosovo by providing them access to expert knowledge, cutting-edge tools, and a platform to network with industry leaders.
+
+Partners:
+
+IPKO Foundation
+University of Prishtina
+Royal Norwegian Ministry of Foreign Affairs
+UNICEF Innovations Lab Kosovo
+
+Project Duration:
+September 7-9, 2012
+
+This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.

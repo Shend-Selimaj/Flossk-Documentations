@@ -1,49 +1,28 @@
-﻿Documentation 
+﻿FLOSSK Bootcamp
+Project Duration:
 
-
-Title: FLOSSK Bootcamp
-	
-Project description:
-The project combined two initiatives, the "FLOSSK Bootcamp" and the "TECH JOB ACCELERATOR," both aimed at reducing youth unemployment in Kosovo by providing essential IT training and internship opportunities. These programs focused on equipping young people with skills in programming, web development, database management, and additional IT disciplines such as hardware and electronics, the Linux operating system, Python, QA, MERN stack, and woodwork and carpentry.
-Participants received comprehensive hands-on training and access to internship placements, enhancing their employability and fostering career development. Through user groups, the project promoted capacity building, experience sharing, knowledge expansion, and partnership creation.
-
-Activities:
-Key activities: 
-
-Delivered 9-week intensive training, held 4 times a week, with sessions including 2 hours of lectures and 2 hours of exercises.
-Training topics included: MERN Fullstack (MongoDB, Express, React, Node), programming, web development, hardware, electronics, QA, and carpentry.
-Conducted workshops and seminars to enhance practical IT skills and prepare students for the workforce.
-Facilitated internship placements:
-● 5 placements with local companies for 3 months, with future employment potential.
-● Coordinated placements with 6 private IT companies, offering students real-world experience and networking opportunities.
-
-
-Photos:
-
-
-Beneficiaries:
-
-● 66 participants: 54 students completed the TECH JOB ACCELERATOR, while 12 university students completed the FLOSSK Bootcamp, gaining entry-level programming skills and hands-on experience to enhance employability.
-● Partner companies: Local businesses benefited from a pool of job-ready candidates, with six private IT companies partnering in the project.
-
-Partners:
-
-● N/A
-
-Budget:
-€84,360.05
-
-Project duration:
 FLOSSK Bootcamp: July - December 2023
 TECH JOB ACCELERATOR: January 1, 2022 - July 31, 2023
+Project Description:
+The project aimed to reduce youth unemployment in Kosovo by providing IT training and internship opportunities. It included two initiatives: FLOSSK Bootcamp and TECH JOB ACCELERATOR, targeting young people with training in programming, web development, database management, Linux, Python, QA, MERN stack, electronics, and carpentry. The participants received hands-on training, access to internship placements, and skills to enhance their employability.
 
+Activities:
 
+Training Sessions: Delivered 9-week intensive training (4 times a week)
+2 hours of lectures and 2 hours of exercises per session
+Training topics included MERN Fullstack (MongoDB, Express, React, Node), web development, QA, programming, electronics, Linux, Python, carpentry
+Workshops and Seminars: Practical sessions to enhance IT skills
+Internship Placements:
+5 placements with local companies for 3 months, with the possibility of future employment
+6 private IT companies participated to offer real-world experience
+Internship placements helped students network and gain practical experience in IT-related fields
+Beneficiaries:
 
+66 participants:
+54 students completed the TECH JOB ACCELERATOR program
+12 university students completed the FLOSSK Bootcamp, gaining entry-level programming skills and hands-on experience
+Partner companies:
+6 private IT companies benefited by gaining access to job-ready candidates with hands-on training
+Partners:
 
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Various local businesses and IT companies that collaborated on internships and skill development

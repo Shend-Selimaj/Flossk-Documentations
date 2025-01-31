@@ -1,81 +1,60 @@
-Documentation
-Title: FLOSSK Activities (2017)
-
+FLOSSK Activities (2017)
 TechCamp Kosovo 2017
 Project Description:
-TechCamp Kosovo 2017, hosted by FLOSSK in collaboration with the U.S. Embassy in Pristina, was an event aimed at enhancing the use of digital tools for promoting open governance and transparency. The event gathered experts and participants to engage in hands-on activities and discussions.
-Key Activities:
-? Date & Location: 2017, Pristina, Kosovo
-? Host: FLOSSK, in collaboration with the U.S. Embassy in Pristina
-? Goal: To explore the use of digital tools in promoting open governance and transparency.
-? Format:
-? Organized challenge group discussions.
-? Held speed-geeking sessions focused on digital tools for open governance.
-? Interactive, participant-driven learning environment.
-? Outcome:
-? Participants gained insights into practical tools for enhancing transparency.
-? Fostered networking and collaboration between local and international participants.
+TechCamp Kosovo 2017, hosted by FLOSSK in collaboration with the U.S. Embassy in Pristina, aimed to enhance the use of digital tools for promoting open governance and transparency. The event gathered experts and participants for hands-on activities and discussions.
 
+Activities:
 
+Organized challenge group discussions.
+Held speed-geeking sessions focused on digital tools for open governance.
+Created an interactive, participant-driven learning environment.
 Beneficiaries:
-? Local and international tech enthusiasts
-? Individuals involved in governance and transparency initiatives
+
+Local and international tech enthusiasts.
+Individuals involved in governance and transparency initiatives.
 Partners:
-? U.S. Embassy in Pristina
-? FLOSSK
-Budget:
+
+U.S. Embassy in Pristina
+FLOSSK
 Project Duration:
+2017, Pristina, Kosovo.
 
 Cyberwizard Institute Afternoon Sessions
 Project Description:
 A series of hands-on training sessions on cybersecurity, ranging from hacking basics to advanced topics, organized by the Cyberwizard Institute. These sessions were designed to accommodate various levels of participants and flexible schedules.
-Key Activities:
-? Date & Location: 2017 (specific dates to be included if available), Kosovo
-? Organizer: Cyberwizard Institute
-? Goal: To offer hands-on training on hacking basics and advanced cybersecurity topics.
-? Format:
-? Flexible scheduling of afternoon sessions to accommodate participants' availability.
-? Hands-on, practical training in both basic and advanced cybersecurity topics.
-? Outcome:
-? Participants developed practical skills in cybersecurity.
-? Increased awareness of cybersecurity among local communities.
 
+Activities:
 
+Flexible scheduling of afternoon sessions to accommodate participants' availability.
+Hands-on, practical training in both basic and advanced cybersecurity topics.
 Beneficiaries:
-? Local tech enthusiasts
-? Individuals seeking to improve cybersecurity skills
-Partners:
-? Cyberwizard Institute
-? FLOSSK
-Budget:
-Project Duration:
 
-Wikivoyage Editathon (Follow-Up)
+Local tech enthusiasts.
+Individuals seeking to improve cybersecurity skills.
+Partners:
+
+Cyberwizard Institute
+FLOSSK
+Project Duration:
+2017, Kosovo.
+
+Wikivoyage Editathon
 Project Description:
-A follow-up editathon for Wikivoyage, focusing on improving and expanding content related to Kosovo's tourism, particularly in areas like hiking and skiing. This event involved editing and translating articles into several languages to increase the visibility of Kosovo's tourist attractions.
-Key Activities:
-? Date & Location: 2017, Pristina, Kosovo
-? Goal: To edit and translate Wikivoyage articles about Kosovo, focusing on hiking, skiing, and other tourist activities.
-? Format:
-? Editing and translating Wikivoyage articles into French, with plans for additional languages (German, Italian, Spanish, Polish).
-? Collaborated with local tourism experts to enhance the accuracy and appeal of the content.
-? Outcome:
-? Expanded Wikivoyage content in French.
-? Increased exposure of Kosovo's tourist attractions on an international platform.
-? Further plans for translations into multiple languages.
+An editathon focused on improving and expanding content related to Kosovo’s tourism, particularly in areas like hiking and skiing. The event involved editing and translating articles into multiple languages to increase the visibility of Kosovo's tourist attractions.
 
+Activities:
 
+Edited and translated Wikivoyage articles into French, with plans for additional languages (German, Italian, Spanish, Polish).
+Collaborated with local tourism experts to enhance the accuracy and appeal of the content.
 Beneficiaries:
-? Local tourism industry
-? International travelers interested in Kosovo
-? Wikivoyage community
+
+Local tourism industry.
+International travelers interested in Kosovo.
+Wikivoyage community.
 Partners:
-? FLOSSK
-? Wikimedia Foundation
-? Buffalo Backpackers Hostel
-Budget:
+
+FLOSSK
+Wikimedia Foundation
+Buffalo Backpackers Hostel
 Project Duration:
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
+2017, Pristina, Kosovo.

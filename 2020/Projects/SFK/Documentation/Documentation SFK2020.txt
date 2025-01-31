@@ -1,53 +1,27 @@
-﻿Documentation 
+﻿Software Freedom Kosova Conference - SFK 2020
 
+Project Duration: May 4, 2020 – September 30, 2020
 
-Title: Software Freedom Kosova Conference - SFK 2020
-
-	
-Project description:
-
-Software Freedom Kosova 2020 was an online conference held on September 26-27, 2020, focused on the theme "Sensors for Good." The event provided a collaborative space for sharing knowledge in open technology, featuring 22 sessions, including workshops, talks, and a discussion panel. The conference aimed to explore the use of sensors and their applications in technology while promoting open-source principles.
-
+Project Description:
+SFK 2020 was an online conference held on September 26-27, focusing on "Sensors for Good." It provided a collaborative space for knowledge-sharing in open technology, featuring 22 sessions, including workshops, talks, and a discussion panel. The event highlighted sensor applications in technology while promoting open-source principles.
 
 Activities:
-Key activities: 
 
-● Hosted 22 sessions, including 7 workshops and 15 talks.
-● Live-streamed the conference through the official website, YouTube, and Facebook.
-● Organized promotional campaigns across social media, reaching over 15,000 users.
-● Delivered key presentations on open-source adoption and sensor-related technologies.
-
-
-Photos:
-
+Hosted 22 sessions, including 7 workshops and 15 talks.
+Live-streamed via the official website, YouTube, and Facebook.
+Conducted social media campaigns, reaching over 15,000 users.
+Delivered key presentations on open-source adoption and sensor technologies.
 
 Beneficiaries:
-The conference primarily benefited students, technologists, and professionals in software and hardware development. It provided insights into modern technologies, including ExpressJS, NodeJS, Internet of Things, and Wikipedia editing.
 
+Students, technologists, and professionals in software and hardware development.
+Participants gained insights into ExpressJS, NodeJS, IoT, and Wikipedia editing.
 
 Partners:
 
-● Austrian Development Agency
-● Skins Agency
-● Frakton
-● Gjirafa Inc.
-● Swiss Entrepreneurial Program
-● Empower Engage Build Ownership Project
-
-
-Budget:
-€17,865.00
-
-Project duration:
-
-May 4, 2020 – September 30, 2020
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Austrian Development Agency
+Skins Agency
+Frakton
+Gjirafa Inc.
+Swiss Entrepreneurial Program
+Empower Engage Build Ownership Project

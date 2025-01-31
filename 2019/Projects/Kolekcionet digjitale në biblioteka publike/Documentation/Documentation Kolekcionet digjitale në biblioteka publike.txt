@@ -1,43 +1,14 @@
-﻿Documentation 
+﻿Kolekcionet Digjitale në Biblioteka Publike
+Project Duration:
+01.06.2018 - 01.12.2019
 
+Project Description:
+The Kolekcionet Digjitale në Biblioteka Publike project focuses on digitizing the "Rilindja" newspaper, published from February 12, 1945, to September 5, 1990, with an estimated 200,000 pages. Classified as an orphan work, "Rilindja" will be made publicly accessible, providing valuable resources for researchers and the general public. The project aims to develop a semi-automatic scanner and integrate a Fedora digital repository, ensuring that the materials are freely accessible online. Additionally, by training 30 young volunteers, the project fosters skills in digitization and preserves important historical publications. The project, with a budget of €25,000, is expected to create a sustainable model for digital preservation in public libraries.
 
-Title: Kolekcionet digjitale në biblioteka publike
-	
-Project description:
-
-The project focuses on digitizing the "Rilindja" newspaper, published from February 12, 1945, to September 5, 1990, with an estimated 200,000 pages. Classified as an orphan work, "Rilindja" will be made publicly accessible, providing valuable resources for researchers and the general public. The project aims to develop a semi-automatic scanner and integrate a Fedora digital repository, ensuring the materials are freely accessible online. By training 30 young volunteers, the project fosters skills in digitization and preserves important historical publications. The project, with a budget of €25,000, is expected to create a sustainable model for digital preservation in public libraries.
-
-Activities:
-Key activities: 
-
-● Digitizing the "Rilindja" newspaper using a semi-automatic scanner.
-● Developing and integrating a Fedora digital repository for accessible storage.
-● Training 30 volunteers in digitization techniques.
-● Making the digitized materials available online for public access.
-
-Photos:
-
-
+Key Activities:
+Digitizing the "Rilindja" newspaper using a semi-automatic scanner.
+Developing and integrating a Fedora digital repository for accessible storage.
+Training 30 volunteers in digitization techniques.
+Making the digitized materials available online for public access.
 Beneficiaries:
-
-The project benefited researchers, historians, students, and the general public by providing access to a preserved historical newspaper collection, fostering cultural heritage appreciation and educational use.
-
-Partners:
-
-● N/A?
-
-Budget:
-€25,000
-
-
-Project duration:01.06.2018 - 01.12.2019
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
-
+Researchers, historians, students, and the general public by providing access to a preserved historical newspaper collection, fostering cultural heritage appreciation and educational use.

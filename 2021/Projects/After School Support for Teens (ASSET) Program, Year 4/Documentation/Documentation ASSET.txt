@@ -1,7 +1,4 @@
-﻿Documentation 
-
-
-Title: After School Support for Teens (ASSET) Program, Year 4
+﻿Title: After School Support for Teens (ASSET) Program, Year 4
 	
 Project description:
 
@@ -14,11 +11,6 @@ Key activities:
 ● Creation of Wiki Clubs in 16 ASSET Program partner schools, engaging 240 students in learning about Wikipedia, Wikidata, and Wikimedia Commons.
 ● Training on Arduino with electronics kits in 16 ASSET Program partner schools, involving 192-320 students in hands-on learning of basic electronics and programming.
 ● Training on OpenStreetMap (OSM) in 16 ASSET Program partner schools, providing students with skills to map and edit geographic data.
-Photos:
-
-
-
-
 
 Beneficiaries:
 
@@ -34,9 +26,6 @@ Partners:
 ● Balkan Green Foundation
 ● OpenStreetMap Foundation
 
-
-Budget:
-€3,250.00
 
 Project duration:
 November 2021 – March 2022

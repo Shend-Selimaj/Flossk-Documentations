@@ -1,122 +1,109 @@
-﻿Documentation
-
-Prishtina Open Source Festival
-Project Description:
- The Prishtina Open Source Festival, held in December 2019, was a two-day event featuring a variety of presentations and workshops on open-source technologies. The festival aimed to promote the use of open-source tools and technologies while fostering community engagement.
-Key Activities:
-● Date & Location: December 2019, Prishtina, Kosovo
-● Key Topics:
-○ Open-source technologies and their applications.
-○ OpenStreetMap (OSM) as a teaching tool in universities.
-● Highlighted Presentation:
-○ Prof. Ferat Krasniqi presented on the use of OpenStreetMap for teaching at the University of Prishtina.
-● Goal: To promote open-source technologies and their integration into educational and professional practices.
-● Outcome:
-○ Increased awareness of open-source tools and technologies.
-○ Encouragement of local academic institutions to integrate open-source technologies into their curricula.
-
-Beneficiaries:
-● Students and professionals from various sectors.
-● Open-source enthusiasts and technology educators.
-Partners:
-● Embassy of Luxembourg in Kosovo
-● OpenStreetMap Geo Week
-Budget:
- € (Specific budget details to be included if available)
+﻿Prishtina Open Source Festival
 Project Duration:
- Two days
+Two days, December 2019
 
+Project Description:
+The Prishtina Open Source Festival, held in December 2019, was a two-day event featuring various presentations and workshops focused on open-source technologies. The festival aimed to promote open-source tools and technologies and foster community engagement.
+
+Key Activities:
+Date & Location: December 2019, Prishtina, Kosovo
+Key Topics:
+Open-source technologies and their applications.
+OpenStreetMap (OSM) as a teaching tool in universities.
+Highlighted Presentation:
+Prof. Ferat Krasniqi presented on using OpenStreetMap for teaching at the University of Prishtina.
+Goal: To promote open-source technologies and integrate them into educational and professional practices.
+Outcome:
+Increased awareness of open-source tools and technologies.
+Encouraged local academic institutions to adopt open-source technologies into their curricula.
+Beneficiaries:
+Students and professionals from various sectors.
+Open-source enthusiasts and technology educators.
+Partners:
+Embassy of Luxembourg in Kosovo
+OpenStreetMap Geo Week
 GIS Fundamentals Training
-Project Description:
- This month-long training program, held from July to August 2019, focused on providing foundational knowledge of Geographic Information Systems (GIS) using OpenStreetMap, iD, JOSM, and QGIS. It aimed to build capacity among students and professionals in architecture, construction, geography, and technology sectors.
-Key Activities:
-● Date & Location: July-August 2019, Prishtina, Kosovo
-● Participants: Students and professionals from architecture, construction, geography, and technology.
-● Training Content:
-○ Basics of editing with OpenStreetMap.
-○ Advanced tools in JOSM (Java OpenStreetMap Editor).
-○ Introduction to QGIS (Geographic Information System).
-● Outcome:
-○ Successful completion of a "mapathon" covering 98% of the road data from cadastral sources.
-○ Increased capacity among participants in GIS technologies and mapping.
-
-Beneficiaries:
-● Students and professionals in GIS-related fields.
-● Local and international participants interested in GIS technologies.
-Partners:
-● Government of the Grand Duchy of Luxembourg
-Budget:
- € (Specific budget details to be included if available)
 Project Duration:
- One month
+One month, July–August 2019
 
+Project Description:
+This month-long training program, held from July to August 2019, aimed to provide foundational knowledge in Geographic Information Systems (GIS) using OpenStreetMap, iD, JOSM, and QGIS. The program targeted students and professionals in architecture, construction, geography, and technology sectors.
+
+Key Activities:
+Date & Location: July–August 2019, Prishtina, Kosovo
+Participants: Students and professionals from architecture, construction, geography, and technology.
+Training Content:
+Basics of editing with OpenStreetMap.
+Advanced tools in JOSM (Java OpenStreetMap Editor).
+Introduction to QGIS (Geographic Information System).
+Outcome:
+Successful completion of a "mapathon" covering 98% of the road data from cadastral sources.
+Increased GIS skills and mapping capacity among participants.
+Beneficiaries:
+Students and professionals in GIS-related fields.
+Local and international participants interested in GIS technologies.
+Partners:
+Government of the Grand Duchy of Luxembourg
 OSM Mapathon in Prizren
-Project Description:
- The OSM Mapathon held in Prizren on July 27, 2019, aimed at enhancing the mapping of the city's historic center. The event encouraged local and international participants to contribute to improving the map's accuracy and usability, especially during the Dokufest.
-Key Activities:
-● Date & Location: July 27, 2019, Prizren, Kosovo
-● Goal:
-○ To enhance the map of Prizren's historic center, focusing on improving the quality of local mapping data.
-○ To engage participants in real-world mapping and data collection using OpenStreetMap.
-● Outcome:
-○ Significant improvements to Prizren's mapping data, contributing to better user experience for visitors and event-goers.
-○ Increased collaboration between local communities and international contributors.
-Beneficiaries:
-● Local community members in Prizren
-● Participants from the mapping and tech communities
-Partners:
-● Dokufest
-Budget:
- € (Specific budget details to be included if available)
 Project Duration:
- One-day event
+One-day event, July 27, 2019
 
+Project Description:
+The OSM Mapathon in Prizren on July 27, 2019, focused on enhancing the mapping of the city's historic center. The event encouraged local and international participants to contribute to improving the map's accuracy and usability, particularly during Dokufest.
+
+Key Activities:
+Date & Location: July 27, 2019, Prizren, Kosovo
+Goal:
+To enhance the map of Prizren's historic center by improving the quality of local mapping data.
+Engage participants in real-world mapping and data collection using OpenStreetMap.
+Outcome:
+Significant improvements to Prizren's mapping data, enhancing the user experience for visitors and event-goers.
+Increased collaboration between local communities and international contributors.
+Beneficiaries:
+Local community members in Prizren
+Participants from the mapping and tech communities
+Partners:
+Dokufest
 Dokutech 2019
-Project Description:
- Dokutech 2019, held in July 2019, was an event hosted by the IPKO Foundation featuring international speakers, an interactive DIY fair, and numerous networking opportunities. It aimed to bring together innovators, technologists, and the local community to foster open-source technology culture and collaborative learning.
-Key Activities:
-● Date & Location: July 2019, Prizren, Kosovo
-● Key Topics:
-○ Open-source technologies and innovation.
-○ DIY projects and technology showcases.
-● Goal:
-○ To showcase the latest trends in open-source technologies and foster a DIY culture within Kosovo.
-● Outcome:
-○ Successful engagement with the local community and international participants.
-○ Encouragement of the use of open-source technologies in everyday life and work.
-
-Beneficiaries:
-● Tech enthusiasts
-● Innovators and DIY project enthusiasts
-● Participants from both local and international communities
-Partners:
-● IPKO Foundation
-Budget:
- € (Specific budget details to be included if available)
 Project Duration:
- One day
+One-day event, July 2019
 
+Project Description:
+Dokutech 2019, held in July 2019, was an event hosted by the IPKO Foundation featuring international speakers, an interactive DIY fair, and networking opportunities. The event aimed to bring together innovators, technologists, and the local community to foster an open-source technology culture and collaborative learning.
+
+Key Activities:
+Date & Location: July 2019, Prizren, Kosovo
+Key Topics:
+Open-source technologies and innovation.
+DIY projects and technology showcases.
+Goal:
+To showcase the latest trends in open-source technologies and foster a DIY culture within Kosovo.
+Outcome:
+Successful engagement with the local community and international participants.
+Encouragement of open-source technologies in everyday life and work.
+Beneficiaries:
+Tech enthusiasts
+Innovators and DIY project enthusiasts
+Participants from both local and international communities
+Partners:
+IPKO Foundation
 OpenStreetMap Meetup
-Project Description:
- The OpenStreetMap Meetup held in August 2019 was designed to encourage local participation in mapping efforts. The event featured presentations on the benefits of editing OpenStreetMap and its value as a teaching tool.
-Key Activities:
-● Date & Location: August 2019, Prishtina, Kosovo
-● Goal:
-○ To inspire new users to contribute to OpenStreetMap by highlighting its benefits and practical uses.
-○ To educate attendees on how OpenStreetMap can be used in educational settings.
-● Outcome:
-○ Increased participation in OpenStreetMap editing.
-○ Engagement of new contributors to enhance local and global mapping efforts.
-
-Beneficiaries:
-● Local tech and mapping community
-● New users interested in contributing to OpenStreetMap
-Partners:
-● FLOSSK
-Budget:
- € (Specific budget details to be included if available)
 Project Duration:
- One-day event
+One-day event, August 2019
 
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
+Project Description:
+The OpenStreetMap Meetup held in August 2019 aimed to encourage local participation in mapping efforts. The event featured presentations on the benefits of editing OpenStreetMap and its value as a teaching tool.
 
+Key Activities:
+Date & Location: August 2019, Prishtina, Kosovo
+Goal:
+To inspire new users to contribute to OpenStreetMap by highlighting its benefits and practical uses.
+To educate attendees on how OpenStreetMap can be used in educational settings.
+Outcome:
+Increased participation in OpenStreetMap editing.
+Engagement of new contributors to enhance local and global mapping efforts.
+Beneficiaries:
+Local tech and mapping community
+New users interested in contributing to OpenStreetMap
+Partners:
+FLOSSK

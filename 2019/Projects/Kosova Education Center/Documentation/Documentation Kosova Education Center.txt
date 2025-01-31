@@ -1,38 +1,17 @@
-﻿Documentation 
+﻿Kosova Education Center
+Project Duration:
+January 2019 
 
-
-Title: Kosova Education Center
-	
-Project description:
+Project Description:
 The After School Support for Teens (ASSET) Program, funded by USAID and managed by the Kosova Education Center (KEC) in partnership with FHI 360 and Crimson Capital Corp, aimed to develop employability and entrepreneurial skills in Kosovar youth. As part of this initiative, the program solicited price quotations for Electronic Kits to enhance educational activities. Each kit included components like Arduino Uno R3, breadboards, sensors, motors, LEDs, and more, as specified in the RFQ. The vendors were required to provide new, unused equipment and a minimum 12-month warranty. Additionally, vendors were tasked with preparing 20 detailed experiments with explanations for each kit.
 
-Activities:
-Key activities: 
-
-    • Issued a Request for Quotations (RFQ) for Electronic Kits.
-    • Reviewed and evaluated offers from various vendors.
-    • Procured and distributed 14 Electronic Kits to enhance the educational process.
-    • Ensured that each kit met the specified technical requirements and included 20 experiments for educational use.
-
-Photos:
-
-
+Key Activities:
+Issued a Request for Quotations (RFQ) for Electronic Kits.
+Reviewed and evaluated offers from various vendors.
+Procured and distributed 14 Electronic Kits to enhance the educational process.
+Ensured that each kit met the specified technical requirements and included 20 experiments for educational use.
 Beneficiaries:
-
-The program benefitted Kosovar youth by providing hands-on learning opportunities in electronics and programming. This contributed to developing essential employability and entrepreneurial skills, preparing participants for future careers in technology and innovation.
-
+Kosovar youth by providing hands-on learning opportunities in electronics and programming. This contributed to developing essential employability and entrepreneurial skills, preparing participants for future careers in technology and innovation.
 Partners:
-
-    • FHI 360
-    • Crimson Capital Corp
-
-
-Budget:
-€9755.06
-
-Project duration:
-January 2019 - ?
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
+FHI 360
+Crimson Capital Corp

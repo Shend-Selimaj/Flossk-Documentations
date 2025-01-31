@@ -1,7 +1,4 @@
-﻿Documentation 
-
-
-Title: Prishtina Open Source Festival
+﻿Title: Prishtina Open Source Festival
 	
 Project description:
 Prishtina Open Source Festival is a two-day youth technology festival dedicated to learning and development through "learning by doing." The festival promotes free and open-source software in Kosovo, introduces the latest global developments, and fosters connections between the global and local communities. It includes day-long workshops on hardware, software, and Vocational Education and Training (VET) in carpentry and welding. The project spans from September to December 2020, culminating in the festival on 19-20 December. The initiative addresses fields such as technology, education, youth, and employment, and is implemented in Prishtina, Kosovo. 
@@ -14,10 +11,6 @@ Hardware and software development sessions
 Vocational Education and Training (carpentry and welding)
 Networking between local and global communities
 
-
-Photos:
-
-
 Beneficiaries:
 Students of various universities
 Individuals passionate about technology and hands-on activities
@@ -29,9 +22,6 @@ FLOSSK
 Hackerspace Prishtina
 Openlabs Tirana
 Kutia
-
-Budget:
-€7,000
 
 Project duration:
 September 2020 - December 2020

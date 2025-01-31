@@ -1,94 +1,291 @@
-2012 FLOSSK Activity 
+2012 Activities
+FLOSSTalks: Knowledge Sharing and Open Discussions
+Date & Location:
 
-1. FLOSSTalks: Knowledge Sharing and Open Discussions
-? OpenStack with Arturo Suarez
+February 22, 2012, UNICEF Innovations Lab Kosovo (video conference from Madrid)
+Organizers and Speakers:
 
-? Date & Location: February 22, 2012, UNICEF Innovations Lab Kosovo (video conference from Madrid).
-? Details: Arturo Suarez discussed the OpenStack project, including a 45-minute presentation followed by Q&A.
-? Access: Live-streamed for remote attendees.
-? Registration: Required via Facebook.
-? Adapting Android with Betim Deva
+Arturo Suarez
+Purpose:
 
-? Date: December 29, 2011.
-? Topics: Customizing Android, application programming, and adapting Android for devices like the Nook.
-? Hacker Spaces with Arangel Angov
+Share insights about the OpenStack project and its impact on cloud computing.
+Talk Highlights:
+Key Topics:
 
-? Date & Location: March 17, 2012, UNICEF Innovations Lab Kosovo.
-? Topics: Establishing hacker spaces as hubs for learning and collaboration.
-? Geospatial Technology with Besfort Guri
+Introduction to OpenStack: an open-source cloud computing platform.
+Q&A session following a 45-minute presentation.
+Live-streamed for remote participation.
+Target Audience:
 
-? Date: May 29, 2012.
-? Topics: Tools like QGIS and GeoServer for geographic data management.
-The Photos are here somewhere [1]
+Open-source enthusiasts, tech professionals, and cloud computing developers.
+Adapting Android with Betim Deva
+Date & Location:
 
-2. Key Project Launches
-? Prishtina Buses Project
+December 29, 2011, UNICEF Innovations Lab Kosovo
+Organizers and Speakers:
 
-? Launch Date: January 12, 2012.
-? Purpose: Created an online platform for bus schedules, routes, and prices to promote public transport use.
-? Development: Routes mapped using Garmin GPS; data visualized online.
-? Budget: €500, supported by UNICEF Innovations Lab.
-? Mapping Public Facilities in Kosovo
+Betim Deva
+Purpose:
 
-? Date: January 20, 2012.
-? Goal: OpenStreetMap integration for public institutions in seven cities.
-? Challenges: Collaborated with InformataZyrtare.org to overcome data scarcity.
-? Master Directory of Map Tile Distributors (MDMTD)
+Discuss customization of Android and application programming for devices like the Nook.
+Talk Highlights:
+Key Topics:
 
-? Proposal Date: February 12, 2012.
-? Objective: Develop tools to manage and distribute map tiles for OpenStreetMap, focusing on localized maps.
-? Requirements: PHP/JS developers, web servers, and a database infrastructure.
+Techniques for adapting Android for different devices.
+Application programming and customization options.
+Target Audience:
 
-3. Conferences and Workshops
-? Hello Drupal Training
+Android developers, hobbyists, and mobile technology enthusiasts.
+Hacker Spaces with Arangel Angov
+Date & Location:
 
-? Date: May 6, 2012.
-? Presenter: Dave Hall (Technocrat, Australia).
-? Focus: Building enterprise-scale websites using Drupal CMS.
-? Tech Talk with Terry Dwyer
+March 17, 2012, UNICEF Innovations Lab Kosovo
+Organizers and Speakers:
 
-? Date: March 29, 2012.
-? Topic: Development of 3-tier applications (UI, AL, DB).
-? Software Freedom Kosova 2012 (SFK12)
+Arangel Angov
+Purpose:
 
-? Dates: September 7-9, 2012.
-? Focus: Free/Libre and Open Source Software, HTML5, JavaScript, and mobile development.
-? Speakers: Experts in FLOSS technologies.
-? Organizers: FLOSSK, University of Prishtina, and partners.
-? Sponsors: Royal Norwegian Ministry of Foreign Affairs, UNICEF, IPKO Foundation.
+Promote the creation of hacker spaces as hubs for learning and collaboration.
+Talk Highlights:
+Key Topics:
 
-4. Advocacy and Collaboration
-? Firefox 6 Localization in Albanian
+Importance of hacker spaces for community development.
+Encouraging collaboration in open-source projects and learning environments.
+Target Audience:
 
-? Partnered with Mozilla to translate browser interfaces and documentation.
-? Support for Community Contributions
+Aspiring tech innovators, educators, and open-source advocates.
+Geospatial Technology with Besfort Guri
+Date & Location:
 
-? Encouraged volunteers to blog, translate, and promote FLOSSK initiatives.
-? International Collaboration
+May 29, 2012, UNICEF Innovations Lab Kosovo
+Organizers and Speakers:
 
-? Engaged with Openlabs in Albania and KIKA Hacklab in Skopje to foster regional partnerships.
+Besfort Guri
+Purpose:
 
-5. Publications and Thought Leadership
-? "We, the Web Kids" by Piotr Czerski
+Introduce geospatial technologies like QGIS and GeoServer for geographic data management.
+Talk Highlights:
+Key Topics:
 
-? Date: May 17, 2012.
-? Themes: Digital freedom, the integration of the internet into daily life, and the evolution of the "Web Generation."
-? Public Lecture with Peter Sunde
+Overview of geospatial tools such as QGIS and GeoServer.
+Applications of geospatial technology in mapping and data management.
+Target Audience:
 
-? Date: May 24, 2012.
-? Topic: The importance of sharing and bypassing traditional distribution channels.
+Geospatial professionals, GIS enthusiasts, and data scientists.
+Prishtina Buses Project Launch
+Date & Location:
 
-6. Recognitions and Community Impact
-? ITTF 2012 Participation
-? Showcased innovative projects like 3D printing, Arduino kits, and transportation solutions.
-? Awarded a certificate for successful engagement.
+January 12, 2012, UNICEF Innovations Lab Kosovo
+Organizers and Speakers:
 
-Get Involved
-? Volunteer Opportunities:
-? Participate in FLOSSK events, translate content, and contribute to projects like OpenStreetMap and Wikipedia.
-? Contact FLOSSK:
-? Email: [email protected]
-? Website: FLOSSK.org
-For more details, visit the FLOSSK gallery or social media pages.
+FLOSSK, supported by UNICEF Innovations Lab
+Purpose:
 
-https://www.facebook.com/KosovoInnovations/
+Create an online platform for bus schedules, routes, and prices to promote public transport use.
+Project Highlights:
+Key Features:
+
+Mapped bus routes using Garmin GPS devices.
+Created an interactive website to visualize bus data.
+Supported by partners to ensure accurate data integration.
+Target Audience:
+
+Citizens of Prishtina, commuters, and transportation planners.
+Mapping Public Facilities in Kosovo
+Date & Location:
+
+January 20, 2012, across seven cities in Kosovo
+Organizers and Speakers:
+
+FLOSSK, supported by InformataZyrtare.org
+Purpose:
+
+Map public facilities in Kosovo and integrate data into OpenStreetMap.
+Project Highlights:
+Key Features:
+
+Collaborated with InformataZyrtare.org to overcome data challenges.
+Mapped facilities in seven major cities and published the data on OpenStreetMap.
+Target Audience:
+
+Kosovo citizens, urban planners, and open-data enthusiasts.
+Master Directory of Map Tile Distributors (MDMTD) Proposal
+Date & Location:
+
+February 12, 2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK
+Purpose:
+
+Develop tools for managing and distributing map tiles for OpenStreetMap.
+Project Highlights:
+Key Features:
+
+Proposal to create a tool for localized map tile distribution.
+Aimed at supporting PHP/JS developers and web server infrastructure.
+Target Audience:
+
+Developers, GIS professionals, and open-source community members.
+Hello Drupal Training
+Date & Location:
+
+May 6, 2012, Kosovo
+Organizers and Speakers:
+
+Dave Hall (Technocrat, Australia)
+Purpose:
+
+Teach participants how to build enterprise-scale websites using Drupal CMS.
+Workshop Highlights:
+Key Topics:
+
+Basics of Drupal CMS.
+Techniques for building scalable websites.
+Target Audience:
+
+Web developers, content managers, and CMS users.
+Tech Talk with Terry Dwyer
+Date & Location:
+
+March 29, 2012, Kosovo
+Organizers and Speakers:
+
+Terry Dwyer
+Purpose:
+
+Discuss the development of 3-tier applications.
+Talk Highlights:
+Key Topics:
+
+Principles of building 3-tier applications (UI, AL, DB).
+Best practices for application architecture.
+Target Audience:
+
+Software developers, architects, and application engineers.
+Software Freedom Kosova 2012 (SFK12)
+Date & Location:
+
+September 7-9, 2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK, University of Prishtina, partners
+Purpose:
+
+Promote Free/Libre and Open Source Software (FLOSS) and educate attendees on its benefits.
+Event Highlights:
+Key Topics:
+
+Free/Libre software, HTML5, JavaScript, and mobile development.
+Expert speakers from the FLOSS community.
+Target Audience:
+
+Open-source developers, tech enthusiasts, and students.
+Firefox 6 Localization in Albanian
+Date & Location:
+
+2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK in collaboration with Mozilla
+Purpose:
+
+Translate the Firefox browser interface and documentation into Albanian.
+Project Highlights:
+Key Features:
+
+Localization of Firefox 6 for the Albanian-speaking community.
+Partnered with Mozilla for the translation efforts.
+Target Audience:
+
+Albanian-speaking Firefox users and tech enthusiasts.
+Support for Community Contributions
+Date & Location:
+
+2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK
+Purpose:
+
+Encourage volunteer contributions to FLOSSK initiatives.
+Advocacy Highlights:
+Key Features:
+
+Promoted blogging, translation, and project contributions.
+Engaged the community in FLOSSKâ€™s activities.
+Target Audience:
+
+Volunteers, bloggers, and FLOSSK supporters.
+International Collaboration with Openlabs and KIKA Hacklab
+Date & Location:
+
+2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK
+Purpose:
+
+Foster regional collaboration with open-source communities in Albania and Skopje.
+Advocacy Highlights:
+Key Features:
+
+Collaboration with Openlabs in Albania and KIKA Hacklab in Skopje.
+Strengthened regional partnerships in the tech community.
+Target Audience:
+
+Open-source enthusiasts, regional collaborators, and hackerspaces.
+"We, the Web Kids" Lecture by Piotr Czerski
+Date & Location:
+
+May 17, 2012, Kosovo
+Organizers and Speakers:
+
+Piotr Czerski
+Purpose:
+
+Explore the theme of digital freedom and the role of the internet in daily life.
+Lecture Highlights:
+Key Topics:
+
+The "Web Generation" and its impact on society.
+Digital freedom in the age of the internet.
+Target Audience:
+
+Students, internet activists, and digital freedom advocates.
+Public Lecture with Peter Sunde
+Date & Location:
+
+May 24, 2012, Kosovo
+Organizers and Speakers:
+
+Peter Sunde
+Purpose:
+
+Discuss the importance of sharing and bypassing traditional distribution channels.
+Lecture Highlights:
+Key Topics:
+
+The role of sharing in the digital era.
+Alternatives to traditional distribution models.
+Target Audience:
+
+Digital rights activists, tech enthusiasts, and open content supporters.
+ITTF 2012 Participation
+Date & Location:
+
+2012, Kosovo
+Organizers and Speakers:
+
+FLOSSK
+Purpose:
+
+Showcase innovative open-source projects and initiatives.
+Event Highlights:
+Key Features:
+
+Featured projects like 3D printing, Arduino kits, and transportation solutions.
+Awarded a certificate for successful engagement.
+Target Audience:
+
+Tech innovators, 3D printing enthusiasts, and open-source advocates.

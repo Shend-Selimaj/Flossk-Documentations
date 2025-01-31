@@ -1,52 +1,25 @@
-﻿Documentation 
+﻿OpenStreetMap Kosovo (2018)
+Project Duration:
+2018 – 2020
 
+Project Description:
+The OpenStreetMap (OSM) Kosovo project aimed to develop geographic information systems (GIS) and related skills in Kosovo. OpenStreetMap is a collaborative mapping platform that allows anyone to use and improve its data. This initiative focused on enhancing GIS education, expanding map coverage in Kosovo, and increasing public engagement with open mapping.
 
-Title: OpenStreetMap Kosovo (2018)
-	
-Project description:
-
-The OpenStreetMap (OSM) Kosovo project aims to develop geographic information systems (GIS) and related skills in Kosovo. OpenStreetMap is a collaborative map platform that allows anyone to use and improve its data. This project focuses on leveraging OSM to improve GIS education and map coverage in Kosovo. Activities include in-depth GIS training for students, outreach to increase public awareness and participation, and the gathering of street-level imagery for mapping purposes. By building a community of mappers and enhancing GIS skills, the project seeks to provide valuable resources for governmental, non-governmental, and business use, while also improving the employability of participants.
+Key activities included in-depth GIS training for students, outreach programs to raise awareness and encourage participation, and the collection of street-level imagery for mapping purposes. By fostering a community of mappers and improving GIS skills, the project provided valuable resources for governmental, non-governmental, and business use while also increasing participants' employability.
 
 Activities:
-Key activities: 
-
-● GIS training sessions for 15 participants, where they learned OpenStreetMap editing tools and advanced GIS software like JOSM and QGIS.
-● Organized mapathons and outreach events, including the OSM GEO-Week with University of Prishtina, and meetups with local and international experts.
-● Signed MoUs with the Kosovo Cadastral Agency and municipalities to obtain geographical data, leading to the completion of Kosovo street names on OSM.
-● Established OSM Kosovo Local Chapter and received support from the OSM Foundation to further expand the community and map settlements.
-
-
-Photos:
-
-
-
+Conducted GIS training sessions for 15 participants, covering OpenStreetMap editing tools and advanced GIS software such as JOSM and QGIS.
+Organized mapathons and outreach events, including OSM GEO-Week in collaboration with the University of Prishtina and meetups with local and international experts.
+Signed Memorandums of Understanding (MoUs) with the Kosovo Cadastral Agency and municipalities to obtain geographical data, leading to the completion of Kosovo street names on OSM.
+Established the OSM Kosovo Local Chapter with support from the OpenStreetMap Foundation to expand the mapping community and improve data on settlements.
 Beneficiaries:
-
-The project benefited over 100 participants, including students from high schools and universities, urban planners, architects, and members of the tech community. The activities engaged diverse groups, including local and international volunteers, who contributed to over 10,000 edits on OpenStreetMap. Notably, high school students from 16 municipalities participated in mapathons and gained valuable GIS skills. The OSM community also expanded through the State of Map Southeast Europe conference, fostering collaboration among local and international GIS professionals.
-
+The project benefited over 100 participants, including high school and university students, urban planners, architects, and members of the tech community. Local and international volunteers contributed to over 10,000 edits on OpenStreetMap. Additionally, high school students from 16 municipalities participated in mapathons, gaining valuable GIS skills. The OSM community in Kosovo also expanded through the State of Map Southeast Europe conference, fostering collaboration among local and international GIS professionals.
 
 Partners:
-
-● Kosovo Cadastral Agency
-● Municipalities of Prishtina and Shtime
-● University of Prishtina, Department of Geography
-● Kosovo Education Center (KEC) - ASSET Project
-● OpenStreetMap Foundation
-● Open Source Geospatial Foundation (OSGeo)
-● GIZ
-
-Budget:
-€80,000
-
-Project duration:
-2018-2020 
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Kosovo Cadastral Agency
+Municipalities of Prishtina and Shtime
+University of Prishtina, Department of Geography
+Kosovo Education Center (KEC) – ASSET Project
+OpenStreetMap Foundation
+Open Source Geospatial Foundation (OSGeo)
+GIZ

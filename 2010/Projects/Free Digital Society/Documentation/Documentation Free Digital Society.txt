@@ -1,21 +1,18 @@
-Documentation
-Title: Free Digital Society with Richard Stallman
-Project Description:
-On June 4, 2010, FLOSSK hosted Richard Stallman (RMS), the founder of the GNU Project and the Free Software Foundation, for a lecture titled A Free Digital Society. Held at the National Library of Kosovo, the event highlighted the shaping of digital society and the threats it faced. RMS also met with IT enthusiasts in Prishtina and Gjakova, providing opportunities for deeper discussions on Free Software principles.
-Activities:
-Key activities:
-? Organized a public lecture by Richard Stallman at the National Library of Kosovo.
-? Facilitated discussions on the principles and challenges of building a free digital society.
-? Arranged meetings between RMS and local IT enthusiasts in Prishtina and Gjakova.
-? Promoted the philosophy of Free Software through engagement with the community.
-Photos:
-[Photo gallery link not provided]
-Beneficiaries:
-This initiative benefited local IT professionals, students, and Free Software enthusiasts by offering them the opportunity to learn from Richard Stallman's expertise, inspiring further exploration of Free Software and digital freedom principles.
-Partners:
-? National Library of Kosovo
-Budget:
-€
-Project Duration:
-June 4, 2010
+Free Digital Society with Richard Stallman
+Project Description
+On June 4, 2010, FLOSSK hosted Richard Stallman (RMS), the founder of the GNU Project and the Free Software Foundation, for a lecture titled "A Free Digital Society."
 
+Held at the National Library of Kosovo, the event focused on the shaping of digital society and the threats it faced. Additionally, RMS met with IT enthusiasts in Prishtina and Gjakova, providing opportunities for deeper discussions on Free Software principles.
+
+Activities
+Organized a public lecture by Richard Stallman at the National Library of Kosovo.
+Facilitated discussions on the principles and challenges of building a free digital society.
+Arranged meetings between RMS and local IT enthusiasts in Prishtina and Gjakova.
+Promoted the philosophy of Free Software through community engagement.
+Beneficiaries
+This initiative benefited local IT professionals, students, and Free Software enthusiasts by offering them the opportunity to learn from Richard Stallman's expertise, inspiring further exploration of Free Software and digital freedom principles.
+
+Partners
+National Library of Kosovo
+Project Duration
+June 4, 2010

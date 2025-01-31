@@ -1,7 +1,4 @@
-﻿Documentation 
-
-
-Title: Ora e Kodimit
+﻿Ora e Kodimit
 	
 Project description:
 
@@ -14,8 +11,6 @@ Key activities:
 ● Held coordination meetings and established cooperation agreements with schools and municipalities to ensure smooth project execution.
 ● Launched the "Hour of Code" with events at Prishtina Hackerspace and other partner centers, featuring influencers as promoters of coding.
 ● Conducted nationwide Hour of Code activities in over 10 municipalities during Computer Science Week (December 5-9, 2022).
-
-Photos:
 
 
 Beneficiaries:
@@ -32,9 +27,6 @@ Partners:
 ● YMCA
 ● American Corner Prizren
 ● SpaceSyntaKs
-
-Budget:
-€1800 (perkthim 1000, 800 dizajn), krejt aktivitetet jane ba pro bono
 
 Project duration:
 September 1, 2022 - February 2023

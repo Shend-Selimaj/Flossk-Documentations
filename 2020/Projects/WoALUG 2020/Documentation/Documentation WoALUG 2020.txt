@@ -1,44 +1,17 @@
-﻿Documentation 
+﻿WoALUG 2020
 
+Project Duration: December 2019 to December 2020
 
-Title: WoALUG 2020
-	
-Project description:
-
-WoALUG 2020 focused on empowering youth through the exchange of knowledge and fostering a collaborative environment in the field of technology. The project aimed to promote open-source principles and enhance the participation of youth in tech-related initiatives.
-
+Project Description:
+WoALUG 2020 aimed to empower youth by promoting open-source principles and fostering a collaborative environment in technology. The project focused on enhancing youth participation in tech initiatives and promoting intercultural cooperation.
 
 Activities:
-Key activities: 
 
-● Hosted a series of workshops on open-source software development.
-● Facilitated discussions on youth inclusion and intercultural cooperation.
-● Engaged youth in interactive activities, fostering skills development and collaboration.
-
-Photos:
-
-
+Hosted workshops on open-source software development.
+Facilitated discussions on youth inclusion and intercultural cooperation.
+Engaged youth in interactive activities for skill development and collaboration.
 Beneficiaries:
-The project primarily benefited youth participants who gained valuable knowledge and skills in open-source technologies, intercultural cooperation, and reconciliation efforts. Local community members, especially those involved in youth initiatives, also benefited from the shared learning experiences and networking opportunities.
+Youth participants gained valuable skills in open-source technologies, cooperation, and reconciliation. Local community members benefited from shared learning and networking opportunities.
 
 Partners:
-
-● Wikimedia Foundation
-
-
-Budget:
-€4,800.00 
-
-Project duration:
- December 2019 to December 2020.
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Wikimedia Foundation

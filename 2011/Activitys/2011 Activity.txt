@@ -1,107 +1,83 @@
-2011 Activity
-1. Presentation: Web and the Future of HTML5
-? Type: Presentation
-? Date: September 30, 2011
-? Location: American Corner, Pristina
-? Organizer: FLOSSK
-? Speaker: Blerim Rexha, academic from the Faculty of Electrical Engineering and Computer Science
-? Purpose: Explore the capabilities of HTML5 and its role in the evolution of web technologies.
-? Key Topics:
-? New structural and semantic elements in HTML5.
-? Enhanced multimedia support with <audio> and <video> tags.
-? APIs for offline web applications and geolocation.
-? Audience: Students, developers, and tech enthusiasts.
-? Interactive Session: Included a Q&A segment where attendees engaged actively.
-? Photos: Available in the FLOSSK Gallery.
+2011 Activities
+Presentation: Web and the Future of HTML5
+Date & Location: September 30, 2011, American Corner, Pristina
+Organizer: FLOSSK
+Speaker: Blerim Rexha (Faculty of Electrical Engineering and Computer Science)
+Purpose: Explore the capabilities of HTML5 and its role in the evolution of web technologies.
+Key Topics:
 
-2. Mini-Hackathon: Translating OpenStreetMap
-? Type: Hackathon
-? Date: September 8-9, 2011
-? Location: Pristina
-? Organizer: FLOSSK
-? Focus: Localizing OpenStreetMap tools and resources for the Albanian language.
-? Key Activities:
-? Translating user interfaces of OpenStreetMap editors.
-? Localizing documentation and tutorials for Albanian-speaking communities.
-? Impact:
-? Strengthened FLOSSK's efforts in promoting Open Data and Free Software.
-? Empowered the local community to contribute to a global project.
-? Contribution Opportunities: Explore and contribute to OpenStreetMap in Kosovo.
+New structural and semantic elements in HTML5.
+Enhanced multimedia support with <audio> and <video> tags.
+APIs for offline web applications and geolocation.
+Audience: Students, developers, and tech enthusiasts.
+Interactive Session: Included a Q&A segment where attendees engaged actively.
+Mini-Hackathon: Translating OpenStreetMap
+Date & Location: September 8-9, 2011, Pristina
+Organizer: FLOSSK
+Focus: Localizing OpenStreetMap tools and resources for the Albanian language.
+Key Activities:
 
-3. Workshop: Python Programming Basics
-? Type: Workshop
-? Date: August 13-14, 2011
-? Location: Faculty of Electrical Engineering and Computer Science, Pristina
-? Organizer: FLOSSK
-? Purpose: Teach the fundamentals of Python programming.
-? Topics Covered:
-? Syntax and core concepts (variables, loops, and functions).
-? Practical applications, such as web scraping and data analysis.
-? Facilitators: FLOSSK volunteer developers.
-? Support: Local sponsors provided snacks and learning materials.
-? Outcome: Attendees showed interest in forming a Python-focused community.
-? Photos and Feedback: Available in the FLOSSK Gallery.
+Translating user interfaces of OpenStreetMap editors.
+Localizing documentation and tutorials for Albanian-speaking communities.
+Impact:
+Strengthened FLOSSK’s efforts in promoting Open Data and Free Software.
+Empowered the local community to contribute to a global project.
+Contribution Opportunities: Encouraged participants to explore and contribute to OpenStreetMap in Kosovo.
+Workshop: Python Programming Basics
+Date & Location: August 13-14, 2011, Faculty of Electrical Engineering and Computer Science, Pristina
+Organizer: FLOSSK
+Purpose: Teach the fundamentals of Python programming.
+Topics Covered:
 
-4. Collaboration with Mozilla for Firefox 6 Localization
-? Type: Localization Project
-? Date: June 2011
-? Organizer: FLOSSK in partnership with Mozilla
-? Objective: Localize Firefox 6 for Albanian speakers.
-? Activities:
-? Translated the browser's interface and documentation.
-? Ensured accessibility for Albanian-speaking users.
-? Alignment with Mission: Fostered Free and Open Source Software adoption and developed local tech talent.
-? Outcome: Firefox 6 became available in Albanian.
+Syntax and core concepts (variables, loops, and functions).
+Practical applications, such as web scraping and data analysis.
+Facilitators: FLOSSK volunteer developers.
+Outcome: Attendees showed interest in forming a Python-focused community.
+Collaboration with Mozilla for Firefox 6 Localization
+Date: June 2011
+Organizer: FLOSSK in partnership with Mozilla
+Objective: Localize Firefox 6 for Albanian speakers.
+Activities:
 
-5. Software Freedom Day (SFD) 2011 in Gjakova
-? Type: Celebration/Event
-? Date: September 18, 2011
-? Location: Gjakova
-? Organizer: FLOSSK
-? Significance: First Software Freedom Day held outside Pristina.
-? Activities:
-? Presentations on Free and Open Source Software.
-? Demonstrations of GNU/Linux distributions (Ubuntu and Fedora).
-? Live OpenStreetMap mapping session of Gjakova.
-? Roundtable discussion on increasing Free Software adoption in Kosovo.
-? Photos and Summary: Available via FLOSSK.
+Translated the browser’s interface and documentation.
+Ensured accessibility for Albanian-speaking users.
+Impact: Strengthened Free and Open Source Software adoption and developed local tech talent.
+Software Freedom Day (SFD) 2011 in Gjakova
+Date & Location: September 18, 2011, Gjakova
+Organizer: FLOSSK
+Significance: First Software Freedom Day held outside Pristina.
+Activities:
 
-6. Open Data Workshop
-? Type: Workshop
-? Date: April 19-20, 2011
-? Location: American Corner, Pristina
-? Organizers: FLOSSK, World Bank, and Ministry of European Integration
-? Purpose: Introduce Open Data concepts and their significance for transparency, governance, and development in Kosovo.
-? Audience: Representatives from government, NGOs, academia, and the private sector.
-? Content Covered:
-? Basics of Open Data.
-? Practical demonstrations on accessing and utilizing open datasets.
-? Discussions on the potential impact of Open Data in Kosovo.
-? Photos: Available in the FLOSSK Gallery.
+Presentations on Free and Open Source Software.
+Demonstrations of GNU/Linux distributions (Ubuntu and Fedora).
+Live OpenStreetMap mapping session of Gjakova.
+Roundtable discussion on increasing Free Software adoption in Kosovo.
+Open Data Workshop
+Date & Location: April 19-20, 2011, American Corner, Pristina
+Organizers: FLOSSK, World Bank, and Ministry of European Integration
+Purpose: Introduce Open Data concepts and their significance for transparency, governance, and development in Kosovo.
+Audience: Representatives from government, NGOs, academia, and the private sector.
+Content Covered:
 
-7. Software Freedom Kosova Conference 2011 (SFK11)
-? Type: Annual Conference
-? Date: September 2011
-? Location: Faculty of Electrical and Computer Engineering, University of Pristina
-? Organizer: FLOSSK
-? Purpose: Promote Free and Open Source Software (FOSS), Open Data, and digital rights in Kosovo.
-? Speakers: International experts in FOSS, Open Data, and technology advocacy.
-? Topics Discussed:
-? Open Source software development.
-? Case studies on successful Open Data initiatives.
-? Free Software's role in education and governance.
-? Photos: Available in the event gallery.
+Basics of Open Data.
+Practical demonstrations on accessing and utilizing open datasets.
+Discussions on the potential impact of Open Data in Kosovo.
+Software Freedom Kosova Conference 2011 (SFK11)
+Date & Location: September 2011, Faculty of Electrical and Computer Engineering, University of Pristina
+Organizer: FLOSSK
+Purpose: Promote Free and Open Source Software (FOSS), Open Data, and digital rights in Kosovo.
+Speakers: International experts in FOSS, Open Data, and technology advocacy.
+Topics Discussed:
 
-8. Wikipedia Workshop
-? Type: Workshop
-? Date: November 8, 2011
-? Location: Innovation Center Kosovo (ICK)
-? Organizer: FLOSSK
-? Purpose: Train participants to edit and contribute to Wikipedia in Albanian and other languages.
-? Audience: Students, journalists, and tech enthusiasts.
-? Outcome:
-? New articles were created.
-? Existing content was improved, enhancing Kosovo-related topics.
-? Photos: Available in the FLOSSK Gallery.
+Open Source software development.
+Case studies on successful Open Data initiatives.
+Free Software’s role in education and governance.
+Wikipedia Workshop
+Date & Location: November 8, 2011, Innovation Center Kosovo (ICK)
+Organizer: FLOSSK
+Purpose: Train participants to edit and contribute to Wikipedia in Albanian and other languages.
+Audience: Students, journalists, and tech enthusiasts.
+Outcome:
 
-
+New articles were created.
+Existing content was improved, enhancing Kosovo-related topics.

@@ -1,47 +1,20 @@
-﻿Documentation 
+﻿TechCamp Kosovo
+Project Duration:
+September 2017 – June 2018
 
+Project Description:
+TechCamp Kosovo, organized by Free Libre Open Source Software Kosova (FLOSSK), aimed to empower civil society and combat corruption through innovative technology. The project engaged 60 participants, including journalists, community leaders, NGOs, and civil society activists from Kosovo and the Balkans, to develop digital tools and strategies that promote transparency and accountability in the public sector.
 
-Title: TechCamp Kosovo
-	
-Project description:
-TechCamp Kosovo, organized by Free Libre Open Source Software Kosova (FLOSSK), aimed to empower civil society and combat corruption by utilizing innovative technology. The project engaged 60 participants, including journalists, community leaders, NGOs, and civil society activists from Kosovo and the Balkans, to develop digital tools and strategies that promote transparency and accountability in the public sector. FLOSSK collaborated with the U.S. Embassy in Pristina and the Bureau of International Information Programs (IIP) to leverage its expertise in community building and event organizing.
+FLOSSK collaborated with the U.S. Embassy in Pristina and the Bureau of International Information Programs (IIP) to leverage its expertise in community building and event organization.
 
 Activities:
-Key activities: 
-
-● Administered 7 subgrants to civil society organizations (CSOs) in Kosovo, Albania, and Serbia.
-● Organized a capstone event in December 2018 where CSOs presented their findings and achievements.
-● Launched a media campaign to raise awareness on anticorruption, transparency, and accountability.
-● Sponsored a free issue of Koha Ditore, focusing on the theme of TechCamp Kosovo.
-● Held an active online media campaign, reaching an audience of 215,000 in Kosovo.
-
-
-Photos:
-
-
+Administered seven subgrants to civil society organizations (CSOs) in Kosovo, Albania, and Serbia.
+Organized a capstone event in December 2018, where CSOs presented their findings and achievements.
+Launched a media campaign to raise awareness on anti-corruption, transparency, and accountability.
+Sponsored a special issue of Koha Ditore, focusing on the theme of TechCamp Kosovo.
+Held an active online media campaign, reaching an audience of 215,000 in Kosovo.
 Beneficiaries:
-
-The beneficiaries included civil society organizations (CSOs), local entrepreneurs, and the general public. These groups gained valuable insights into using technology for transparency, anti-corruption, and civic engagement. The CSOs were equipped with the tools to address local issues, and the general public was engaged through media campaigns promoting accountability and transparency.
-
+The project benefited civil society organizations (CSOs), local entrepreneurs, and the general public. Participants gained valuable insights into using technology for transparency, anti-corruption efforts, and civic engagement. CSOs were equipped with digital tools to address local issues, while the general public was engaged through media campaigns promoting accountability and transparency.
 
 Partners:
-
-● Bureau of International Information Programs (IIP)
-
-Budget:
-$40,000 
-(usd)
-
-Project duration:
-
-September 2017 - June 2018
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Bureau of International Information Programs (IIP)

@@ -1,46 +1,19 @@
-﻿Documentation 
+﻿Title: 3rd QA Training
 
-
-Title: 3rd QA Training
-	
-Project description:
-
-The "QA Automation and Manual Testing Training" program, running from November 7, 2023, to January 25, 2024, offers an in-depth, hybrid-mode course in software testing. With a balanced focus on both manual and automated testing, the course aims to equip participants with hands-on skills in testing techniques, automation tools, and real-world project experience.
-
+Project Description:
+The "QA Automation and Manual Testing Training" program, running from November 7, 2023, to January 25, 2024, offered a hybrid-mode course focusing on both manual and automated software testing. The course aimed to provide participants with hands-on skills in testing techniques, automation tools, and real-world project experience.
 
 Activities:
-Key activities: 
+Key activities:
 
-● Introductory Sessions outlining the objectives, schedule, and course structure.
-● Lecture and Practical Sessions conducted three times per week, with 60 hours dedicated to theoretical instruction and 60 hours to practical exercises.
-● Automation Testing Labs covering UI testing (Selenium/Java), API testing (Java/RestAssured and Postman), and performance testing basics.
-● Final Project where each participant develops a comprehensive test automation project.
-
-
-Photos:
-
-
+Introductory Sessions outlining the objectives and course structure
+Lecture and Practical Sessions, with 60 hours of theory and 60 hours of practical exercises
+Automation Testing Labs covering UI testing, API testing, and performance testing
+Final Project where participants developed a test automation project
 Beneficiaries:
-A maximum of 12 participants, selected on a first-come, first-served basis, benefit from hands-on training and mentorship, gaining practical skills in QA testing techniques
+12 participants, selected on a first-come, first-served basis, gained practical skills in QA testing techniques.
 
-Partners:
 
-● N/A
-
-Budget:
-€
-
-Project duration:
+Project Duration:
 07/11/2023 - 25/01/2024
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
 

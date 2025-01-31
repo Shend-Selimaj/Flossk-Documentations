@@ -1,56 +1,25 @@
-﻿Documentation 
+﻿Prishtina Hackerspace Phase II
 
-
-Title: Prishtina Hackerspace Phase II
-	
-Project description:
-
-Prishtina Hackerspace Phase II, a continuation of an existing initiative, focused on empowering urban youth through technology projects, workshops, and community events. It provided a collaborative experimental space for technological, educational, cultural, and scientific pursuits. Activities included hackathons, workshops on smart gardening, IoT, 3D printing, and open-source projects, aiming to foster continuous learning, volunteerism, and talent promotion. The project engaged over 700 participants in diverse events and collaborated with various local and international partners. It ran from July 1, 2019, to December 31, 2019, with significant financial backing from multiple sources.
-
-
-Activities:
-Key activities: 
-
-    • Providing workspace and resources for youth in Prishtina.
-    • Organizing technology workshops, hackathons, and seminars.
-    • Offering mentoring and support for individual projects.
-    • Promoting community-driven initiatives through public events and presentations.
-
-
-Photos:
-
-
-Beneficiaries:
-
-Young people from Prishtina, particularly students and those interested in technology, gained hands-on experience and practical skills through participation in workshops, projects, and events. The hackerspace helped empower them to become creators and innovators in the tech field, fostering personal growth and potential career opportunities.
-
-
-Partners:
-
-    • STIKK
-    • ICK
-    • Mozilla
-    • Hyperledger
-    • RIT Kosovo
-    • IPKO Foundation
-    • UNICEF Innovation LAB
-    • Local universities and businesses
-
-
-Budget:
-€ 10,460
-
-Project duration:
+Project Duration:
 01.07.2019 - 31.12.2019
 
+Project Description:
+Prishtina Hackerspace Phase II, a continuation of an existing initiative, aimed at empowering urban youth through technology projects, workshops, and community events. The project provided a collaborative experimental space for technological, educational, cultural, and scientific pursuits. Key activities included hackathons, workshops on smart gardening, IoT, 3D printing, and open-source projects. The goal was to foster continuous learning, volunteerism, and talent promotion, engaging over 700 participants in various events.
 
+Key Activities:
+Providing workspace and resources for youth in Prishtina.
+Organizing workshops, hackathons, and seminars on technology.
+Offering mentoring and support for individual projects.
+Promoting community-driven initiatives through public events and presentations.
+Beneficiaries:
+Young people from Prishtina, particularly students and those interested in technology, gained hands-on experience and practical skills. The hackerspace helped empower them to become creators and innovators in the tech field, fostering personal growth and career opportunities.
 
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Partners:
+STIKK
+ICK
+Mozilla
+Hyperledger
+RIT Kosovo
+IPKO Foundation
+UNICEF Innovation LAB
+Local universities and businesses

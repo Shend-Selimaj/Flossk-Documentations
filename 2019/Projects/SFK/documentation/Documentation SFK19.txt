@@ -1,49 +1,21 @@
-﻿Documentation 
-
-
-Title: SFK19
-	
-Project description:
-FLOSSK organized the 8th edition of the Software Freedom Kosova Conference, aimed at promoting free and open-source software, open culture, and open knowledge. The conference brought together local and international participants to share knowledge and develop skills related to software freedom. It featured workshops, talks, and networking opportunities, all aimed at fostering collaboration within the open-source community.
-
-
-Activities:
-Key activities: 
-
-    • Organized an annual open conference with low-cost entry for participants.
-    • Conducted workshops on various topics, including business with open-source software, AI/ML in image processing, and home automation.
-    • Facilitated discussions and panels on open-source technologies and free culture.
-    • Collaborated with local and international partners to promote software freedom and knowledge sharing.
-
-
-Photos:
-
-
-Beneficiaries:
-The beneficiaries of the conference were community members, students, technology enthusiasts, and professionals from various fields who sought to learn about or contribute to free and open-source software. Participants were able to expand their knowledge in technology, software development, and open culture. Local businesses and academic institutions also benefited from the exchange of ideas and collaboration.
-
-
-Partners:
-
-    • Wikimedia Foundation
-    • W3C (World Wide Web Consortium)
-    • Creative Commons
-    • Local academic and government organizations
-    • Industry partners
-
-
-Budget:
-€17,865.00
-
-Project duration:
-
+﻿SFK19 - Software Freedom Kosova Conference 2019
+Project Duration:
 4th – 7th April 2019
 
+Project Description:
+FLOSSK organized the 8th edition of the Software Freedom Kosova Conference (SFK19), aimed at promoting free and open-source software, open culture, and open knowledge. The conference brought together local and international participants to share knowledge and develop skills related to software freedom. It featured workshops, talks, and networking opportunities, all designed to foster collaboration within the open-source community.
 
+Key Activities:
+Organized an annual open conference with low-cost entry for participants.
+Conducted workshops on various topics, including business with open-source software, AI/ML in image processing, and home automation.
+Facilitated discussions and panels on open-source technologies and free culture.
+Collaborated with local and international partners to promote software freedom and knowledge sharing.
+Beneficiaries:
+The conference benefitted community members, students, technology enthusiasts, and professionals from various fields who sought to learn about or contribute to free and open-source software. Participants expanded their knowledge in technology, software development, and open culture. Local businesses and academic institutions also benefited from the exchange of ideas and collaboration.
 
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Partners:
+Wikimedia Foundation
+W3C (World Wide Web Consortium)
+Creative Commons
+Local academic and government organizations
+Industry partners

@@ -1,42 +1,28 @@
-﻿Documentation 
+﻿Prishtina Open Source Festival
 
+Project Duration: September 2020 - December 2020
 
-Title: Prishtina Open Source Festival
-	
-Project description:
-Prishtina Open Source Festival is a two-day youth technology festival dedicated to learning and development through "learning by doing." The festival promotes free and open-source software in Kosovo, introduces the latest global developments, and fosters connections between the global and local communities. It includes day-long workshops on hardware, software, and Vocational Education and Training (VET) in carpentry and welding. The project spans from September to December 2020, culminating in the festival on 19-20 December. The initiative addresses fields such as technology, education, youth, and employment, and is implemented in Prishtina, Kosovo. 
+Project Description:
+Prishtina Open Source Festival was a two-day technology and skills festival promoting free and open-source software, hands-on learning, and vocational training. The event featured workshops on hardware, software, carpentry, and welding, bridging education, youth empowerment, and employment opportunities. The initiative aimed to connect local and global communities in open-source development and technical skills training.
 
 Activities:
-Key activities: 
 
-    • -
-    • -
-    • -
-    • -
-
-Photos:
-
+Developed workshop curricula for technology and vocational training.
+Launched a marketing and outreach campaign to maximize participation.
+Organized and executed the two-day festival with interactive workshops.
+Gathered participant feedback and published a post-event report.
+Fostered ongoing community engagement in open-source and vocational fields.
 
 Beneficiaries:
 
+Youth (16-25 years old) – Gained hands-on experience in technology and trades.
+Local Community – Strengthened the local tech and maker ecosystem.
+Instructors & Volunteers – Developed skills in training and event coordination.
+Partners – Increased visibility and networking opportunities.
 
 Partners:
 
-    • -
-
-Budget:
-€7,000
-
-Project duration:
-September 2020 - December 2020
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Municipality of Prishtina
+Local vocational schools
+Tech companies
+Youth organizations

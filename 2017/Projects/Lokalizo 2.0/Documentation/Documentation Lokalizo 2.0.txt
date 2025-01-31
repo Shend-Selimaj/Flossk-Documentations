@@ -1,48 +1,34 @@
-﻿Documentation 
+﻿Lokalizo 2.0
+Project Duration:
+November 1, 2016 – March 31, 2017
 
+Project Description:
+Lokalizo was a collaborative project aimed at improving communication between citizens and local government in Kosovo. The project provided a user-friendly platform that allowed residents to report community issues such as waste management, infrastructure problems, traffic hazards, and environmental concerns directly to municipal authorities.
 
-Title: Lokalizo 2.0
-	
-Project description:
-
-Lokalizo was a collaborative project aimed at improving communication between citizens and local government in Kosovo. The project provided a user-friendly platform that allowed residents to report community issues such as waste management, infrastructure problems, traffic hazards, and environmental concerns directly to municipal authorities. Using the open-source FixMyStreet software, Lokalizo supported both web and mobile applications, enabling users to submit reports easily. The project emphasized transparency, accountability, and citizen engagement, contributing to more efficient problem-solving and sustainable local governance.
+Using the open-source FixMyStreet software, Lokalizo supported both web and mobile applications, enabling users to submit reports easily. The project emphasized transparency, accountability, and citizen engagement, contributing to more efficient problem-solving and sustainable local governance.
 
 Activities:
-Key activities: 
 
-● Developed and implemented the Lokalizo web platform for reporting issues.
-● Launched mobile applications for Android and iOS, including offline functionality.
-● Conducted training sessions for municipality administrators and community users.
-● Created a Disaster Risk Reduction resource map for the Municipality of Gjakova.
-● Built partnerships with local institutions, civil society organizations, and media outlets to support project expansion.
-
-Photos:
-
-
+Developed and implemented the Lokalizo web platform for reporting issues.
+Launched mobile applications for Android and iOS, including offline functionality.
+Conducted training sessions for municipality administrators and community users.
+Created a Disaster Risk Reduction resource map for the Municipality of Gjakova.
+Built partnerships with local institutions, civil society organizations, and media outlets to support project expansion.
 Beneficiaries:
 
-The Municipality of Gjakova benefited by receiving an accessible platform for citizens to report local issues, improving communication with the community. Youth volunteers took an active role in mobilizing citizens and leading mapping activities. The wider community, especially internet users in the target municipalities, gained a convenient tool for direct interaction with local authorities. Central government institutions, such as the Ministry of Environment and the Kosovo Security Force, were involved in addressing environmental problems and ensuring better collaboration. Private companies responsible for waste management were held accountable through public reporting, improving their efficiency. Civil society organizations gained a tool for advocacy and collaboration in addressing community concerns.
-
-
+The Municipality of Gjakova benefited by receiving an accessible platform for citizens to report local issues, improving communication with the community.
+Youth volunteers took an active role in mobilizing citizens and leading mapping activities.
+The wider community, especially internet users in the target municipalities, gained a convenient tool for direct interaction with local authorities.
+Central government institutions, such as the Ministry of Environment and the Kosovo Security Force, were involved in addressing environmental problems and ensuring better collaboration.
+Private companies responsible for waste management were held accountable through public reporting, improving their efficiency.
+Civil society organizations gained a tool for advocacy and collaboration in addressing community concerns.
 Partners:
-● Municipality of Gjakova
-● UNICEF Kosovo
-● U.S. Embassy Pristina
-● Other local organizations and institutions
 
-Budget:
-€6,475.00
+Municipality of Gjakova
+UNICEF Kosovo
+U.S. Embassy Pristina
+Other local organizations and institutions
 
-Project duration:
-01.11.2016 until 31.03.2017
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
 
 
 

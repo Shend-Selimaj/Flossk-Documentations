@@ -1,73 +1,79 @@
 FLOSSK Activities (2014)
-1. FOSS Bootcamps
-? Project Description: A series of bootcamps designed to introduce basic concepts of Free and Open Source Software (FOSS) to beginners in different cities of Kosovo. The bootcamps consisted of workshops covering various FOSS tools and platforms, providing hands-on experience and promoting the use of open-source technologies.
-? Activities:
-? FOSS Bootcamp in Peja:
-¦ Date & Location: April 13, 2014, Qendra Rinore "Atë Lorenc Mazrreku," Peja.
-¦ Goal: To provide a basic understanding of FOSS and its applications to students and young people in Peja.
-¦ Format: Interactive workshops covering introductory topics on FOSS tools and technologies.
-? FOSS Bootcamp in Gjakova:
-¦ Date & Location: April 19, 2014, Kolegjin UNIVERSUM, Gjakova.
-¦ Goal: To introduce students in Gjakova to the world of FOSS and its benefits.
-¦ Format: Hands-on workshops and presentations on FOSS tools and platforms.
-? FOSS Bootcamp in Mitrovica:
-¦ Date & Location: April 26, 2014, International Business College Mitrovica, Mitrovica.
-¦ Goal: To promote FOSS adoption among students and young people in Mitrovica.
-¦ Format: Workshops and interactive sessions covering practical applications of FOSS.
-? Beneficiaries: Students, young people interested in technology, and the local FOSS communities in Peja, Gjakova, and Mitrovica.
-? Partners: UNICEF Innovations Lab Kosovo
-? Project Duration: Three separate one-day events.
-2. Software Freedom Kosova (SFK) Conference
-? Project Description: The sixth edition of the annual Software Freedom Kosova conference, bringing together FOSS enthusiasts, speakers, and developers.
-? Activities:
-? Date & Location: October 24-26, Pristina
-? Goal: To promote free and open-source software, facilitate knowledge sharing, and foster community building.
-? Format: Presentations, workshops, and networking sessions.
-? Beneficiaries: FOSS enthusiasts, developers, students, and the general public.
-? Partners: trembelat, Kosovo ICT Association - STIKK, Ministria e Kulturës, Rinisë dhe Sportit, Kosovo Investment and Enterprise Support Agency - KIESA, James Michael DuPont, Artmotion, Furra Lumi, Fakulteti Filologjik University of Prishtina, and ICK - Innovation Centre Kosovo.
-? Project Duration: 3 days
-3. Wiki Loves Monuments
-? Project Description: A photo competition encouraging the documentation of cultural heritage sites in Kosovo.
-? Activities:
-? Date & Location: September - October, Kosovo (various locations)
-? Goal: To promote the competition, encourage participation, and document cultural heritage.
-? Format: Information sessions, online promotion, and potentially photo walks or workshops.
-? Beneficiaries: Local photographers, cultural heritage enthusiasts, and the Wikimedia Commons community.
-? Partners: Wikimedia Commons
-? Project Duration: Multiple events throughout September and October.
-4. Prishtina Hackerspace
-? Project Description: Ongoing support and development of the Prishtina Hackerspace, a community-operated space for technology enthusiasts.
-? Activities:
-? Wiki Documentation (June 4): Documenting the hackerspace project on their wiki.
-? Fundraising Campaign (July 29): Raising funds to support the hackerspace.
-? Beneficiaries: Members of the hackerspace, the local tech community, and those interested in learning about technology.
-? Partners: (It's unclear from the information if there were external partners for these specific activities)
-? Project Duration: Ongoing throughout the year.
-5. Command-line Workshop
-? Project Description: A workshop on command-line equivalents to graphical programs.
-? Activities:
-? Date & Location: November 4, Prishtina Hackerspace.
-? Goal: To teach participants about the command-line interface and promote the use of open-source command-line tools.
-? Format: Hands-on workshop led by Thomas Levine.
-? Beneficiaries: Individuals interested in learning about command-line tools and improving their technical skills.
-? Partners: Prishtina Hackerspace
-? Project Duration: 1 day
-6. TEDxPrishtina Talk
-? Project Description: A talk on hacktivism and the Free and Open Source Software community in Kosovo.
-? Activities:
-? Date & Location: December 11, TEDxPrishtina
-? Goal: To raise awareness about hacktivism, advocate for FOSS, and share the story of the FOSS community in Kosovo.
-? Format: Presentation by FLOSSK board member Altin Ukshini.
-? Beneficiaries: TEDxPrishtina audience and the wider community interested in hacktivism and FOSS.
-? Partners: TEDxPrishtina
-? Project Duration: 1 day
-7. OSCAL 2014 Conference
-? Project Description: The first Open Source Conference Albania (OSCAL 2014), organized by Open Labs. FLOSSK likely helped promote the event and encouraged participation.
-? Activities:
-? Date & Location: (Date and location not specified in the Facebook post)
-? Goal: To promote open-source software and build the FOSS community in Albania.
-? Format: Conference with presentations, workshops, and networking opportunities. (Specific activities by FLOSSK are not detailed)
-? Beneficiaries: The FOSS community in Albania and the wider region.
-? Partners: Open Labs
 
+FOSS Bootcamps
+Project Description: A series of bootcamps designed to introduce basic concepts of Free and Open Source Software (FOSS) to beginners in different cities of Kosovo. The bootcamps consisted of workshops covering various FOSS tools and platforms, providing hands-on experience and promoting the use of open-source technologies.
+Activities:
 
+FOSS Bootcamp in Peja
+Date & Location: April 13, 2014, Qendra Rinore "Atë Lorenc Mazrreku," Peja.
+Goal: To provide a basic understanding of FOSS and its applications to students and young people in Peja.
+Format: Interactive workshops covering introductory topics on FOSS tools and technologies.
+FOSS Bootcamp in Gjakova
+Date & Location: April 19, 2014, Kolegjin UNIVERSUM, Gjakova.
+Goal: To introduce students in Gjakova to the world of FOSS and its benefits.
+Format: Hands-on workshops and presentations on FOSS tools and platforms.
+FOSS Bootcamp in Mitrovica
+Date & Location: April 26, 2014, International Business College Mitrovica, Mitrovica.
+Goal: To promote FOSS adoption among students and young people in Mitrovica.
+Format: Workshops and interactive sessions covering practical applications of FOSS.
+Beneficiaries: Students, young people interested in technology, and the local FOSS communities in Peja, Gjakova, and Mitrovica.
+Partners: UNICEF Innovations Lab Kosovo
+Project Duration: Three separate one-day events
+Software Freedom Kosova (SFK) Conference
+Project Description: The sixth edition of the annual Software Freedom Kosova conference, bringing together FOSS enthusiasts, speakers, and developers.
+Activities:
+
+Date & Location: October 24-26, Pristina
+Goal: To promote free and open-source software, facilitate knowledge sharing, and foster community building.
+Format: Presentations, workshops, and networking sessions.
+Beneficiaries: FOSS enthusiasts, developers, students, and the general public.
+Partners: trembelat, Kosovo ICT Association - STIKK, Ministria e Kulturës, Rinisë dhe Sportit, Kosovo Investment and Enterprise Support Agency - KIESA, James Michael DuPont, Artmotion, Furra Lumi, Fakulteti Filologjik University of Prishtina, and ICK - Innovation Centre Kosovo.
+Project Duration: 3 days
+Wiki Loves Monuments
+Project Description: A photo competition encouraging the documentation of cultural heritage sites in Kosovo.
+Activities:
+
+Date & Location: September - October, Kosovo (various locations)
+Goal: To promote the competition, encourage participation, and document cultural heritage.
+Format: Information sessions, online promotion, and potentially photo walks or workshops.
+Beneficiaries: Local photographers, cultural heritage enthusiasts, and the Wikimedia Commons community.
+Partners: Wikimedia Commons
+Project Duration: Multiple events throughout September and October
+Prishtina Hackerspace
+Project Description: Ongoing support and development of the Prishtina Hackerspace, a community-operated space for technology enthusiasts.
+Activities:
+
+Wiki Documentation (June 4): Documenting the hackerspace project on their wiki.
+Fundraising Campaign (July 29): Raising funds to support the hackerspace.
+Beneficiaries: Members of the hackerspace, the local tech community, and those interested in learning about technology.
+Partners: (It's unclear from the information if there were external partners for these specific activities)
+Project Duration: Ongoing throughout the year
+Command-line Workshop
+Project Description: A workshop on command-line equivalents to graphical programs.
+Activities:
+
+Date & Location: November 4, Prishtina Hackerspace.
+Goal: To teach participants about the command-line interface and promote the use of open-source command-line tools.
+Format: Hands-on workshop led by Thomas Levine.
+Beneficiaries: Individuals interested in learning about command-line tools and improving their technical skills.
+Partners: Prishtina Hackerspace
+Project Duration: 1 day
+TEDxPrishtina Talk
+Project Description: A talk on hacktivism and the Free and Open Source Software community in Kosovo.
+Activities:
+
+Date & Location: December 11, TEDxPrishtina
+Goal: To raise awareness about hacktivism, advocate for FOSS, and share the story of the FOSS community in Kosovo.
+Format: Presentation by FLOSSK board member Altin Ukshini.
+Beneficiaries: TEDxPrishtina audience and the wider community interested in hacktivism and FOSS.
+Partners: TEDxPrishtina
+Project Duration: 1 day
+OSCAL 2014 Conference
+Project Description: The first Open Source Conference Albania (OSCAL 2014), organized by Open Labs. FLOSSK likely helped promote the event and encouraged participation.
+Activities:
+
+Date & Location: (Date and location not specified in the Facebook post)
+Goal: To promote open-source software and build the FOSS community in Albania.
+Format: Conference with presentations, workshops, and networking opportunities. (Specific activities by FLOSSK are not detailed)
+Beneficiaries: The FOSS community in Albania and the wider region.
+Partners: Open Labs

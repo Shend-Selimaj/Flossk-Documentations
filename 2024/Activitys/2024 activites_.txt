@@ -1,156 +1,144 @@
-﻿DevFest Prishtina 2024
+﻿Title: DevFest Prishtina 2024
 Type: Activity
- Date: December 2024
- Location: Prishtina
- Details:
-● Supported by FLOSSK, this tech gathering featured a panel moderated by Bleron Limani, titled "Digital Evolution: How AI is Transforming Industries."
-● FLOSSK also showcased its projects and engaged attendees at its booth.
+Date: December 2024
+Location: Prishtina
+Details:
 
-Training on Access to Public Documents
+FLOSSK supported this dynamic tech gathering, featuring an enriching panel moderated by Bleron Limani on “Digital Evolution: How AI is Transforming Industries.” The event showcased current developments in AI and its influence across various industries.
+The FLOSSK booth featured live demonstrations of ongoing tech projects, offering attendees a chance to explore and engage with the latest in open-source innovations.
+Title: Training on Access to Public Documents
 Type: Activity
- Date: October 15, 2024
- Time: 10:00 - 13:00
- Location: Prishtina Hackerspace
- Details:
- A hands-on session focused on Kosovo’s public document access law and using dumedite.org to submit official requests effectively.
+Date: October 15, 2024
+Time: 10:00 - 13:00
+Location: Prishtina Hackerspace
+Details:
 
-OSM Geo Week Mapathon
+A practical session dedicated to Kosovo’s public document access law, focusing on how to utilize dumedite.org to efficiently submit official requests.
+Participants gained valuable insight into the legal framework, learning how to navigate the system, and how access to public information can impact transparency and governance. It provided participants with the tools to better engage with governmental bodies.
+Title: OSM Geo Week Mapathon
 Type: Activity
- Date: November 22, 2024
- Time: 11:00 - 15:00
- Location: Prishtina Hackerspace
- Details:
- An open mapping session as part of OpenStreetMap Geo Week.
- Audience: Both beginners and experienced mappers.
- Goal: To contribute to open-source geospatial data development.
+Date: November 22, 2024
+Time: 11:00 - 15:00
+Location: Prishtina Hackerspace
+Details:
 
-Civic Tech Insights with Tomas Rakos
+This open mapping event, part of OpenStreetMap’s Geo Week, encouraged collaboration among both seasoned mappers and beginners to contribute to Kosovo's geospatial data.
+The activity aimed to enhance the map data of important regions, including protected areas, roads, and infrastructure. Participants learned how mapping contributes to environmental and humanitarian efforts.
+Title: Civic Tech Insights with Tomas Rakos
 Type: Activity
- Date: October 3, 2024
- Time: 17:30 - 19:00
- Location: Prishtina Hackerspace
- Speaker: Tomas Rakos, CEO of Participation Factory
- Details:
- Covered 2024-2025 EU Civic Tech Market Trends, engagement platforms, and tools for community participation.
+Date: October 3, 2024
+Time: 17:30 - 19:00
+Location: Prishtina Hackerspace
+Speaker: Tomas Rakos, CEO of Participation Factory
+Details:
 
-Exploring MHIRA - Mental Health Reporting Software
-no good photos
-
+Tomas Rakos, an expert in civic tech, provided a comprehensive overview of EU civic tech market trends for 2024-2025.
+His talk covered topics such as the evolution of digital engagement platforms and the tools necessary for fostering community participation. The session provided attendees with actionable insights for enhancing local civic tech initiatives.
+Title: Exploring MHIRA - Mental Health Reporting Software
 Type: Activity
- Date: November 5, 2024
- Time: 17:30
- Location: Prishtina Hackerspace
- Speaker: Jon Konjufca
- Details:
-● Introduction to MHIRA, an open-source software designed for mental health professionals.
-● Features included profile creation, data collection, and report generation.
+Date: November 5, 2024
+Time: 17:30
+Location: Prishtina Hackerspace
+Speaker: Jon Konjufca
+Details:
 
-Lecture: “Empowering Communities”
-no good photos
-
+Jon Konjufca introduced MHIRA, an open-source software aimed at improving the mental health sector by offering a platform for professionals to manage patient profiles, data collection, and reports.
+The session also included a discussion on how open-source solutions can provide flexible, scalable tools for the public sector, especially in sensitive areas like mental health.
+Title: Lecture: “Empowering Communities”
 Type: Activity
- Date: September 11, 2024
- Time: 17:30
- Location: Prishtina Hackerspace
- Speaker: Mennan Selimi
- Details:
- A lecture focusing on empowering communities using wireless networks and blockchain-driven community clouds.
+Date: September 11, 2024
+Time: 17:30
+Location: Prishtina Hackerspace
+Speaker: Mennan Selimi
+Details:
 
-Panel: “The Importance of Access to Public Documents”
+Mennan Selimi delivered an insightful lecture about how wireless networks and blockchain technology can empower communities by providing decentralized access to digital resources.
+The lecture also explored the potential of blockchain in community-driven governance, data privacy, and the creation of more equitable digital infrastructures.
+Title: Panel: “The Importance of Access to Public Documents”
 Type: Activity
- Date: November 27, 2024
- Location: Prishtina Hackerspace
- Panelists: Xheneta Murtezaj, Jeton Arifi, Leorentë Alija
- Details:
- An engaging discussion on public document access laws and transparency challenges in Kosovo.
+Date: November 27, 2024
+Location: Prishtina Hackerspace
+Panelists: Xheneta Murtezaj, Jeton Arifi, Leorentë Alija
+Details:
 
-20th Anniversary of OpenStreetMap Meetup
-no significant photos
-
+This panel discussed the crucial role that public document access plays in ensuring transparency and accountability in governance.
+Panelists shared real-world examples of how the freedom of information laws are being applied in Kosovo and debated challenges and successes in increasing public access to governmental records.
+Title: 20th Anniversary of OpenStreetMap Meetup
 Type: Activity
- Date: August 9, 2024
- Time: 17:30
- Location: Prishtina Hackerspace
- Speaker: Rizah Murseli, Head of GIS Division, Spatial Planning Institute of Kosovo
- Topic: Celebrating 20 years of OpenStreetMap.
- Details:
- Guest lecture on the impact and advancements of OpenStreetMap, fostering connections among GIS enthusiasts.
+Date: August 9, 2024
+Time: 17:30
+Location: Prishtina Hackerspace
+Speaker: Rizah Murseli, Head of GIS Division, Spatial Planning Institute of Kosovo
+Topic: Celebrating 20 years of OpenStreetMap
+Details:
 
-FLOSSK Key Achievements Presentation
+A celebration of OpenStreetMap’s 20th anniversary, featuring a guest lecture by Rizah Murseli on OSM’s impact on urban planning, GIS development, and mapping initiatives worldwide.
+The session highlighted how OSM data has influenced spatial planning and sustainable development in Kosovo, fostering connections among geospatial professionals.
+Title: FLOSSK Key Achievements Presentation
 Type: Activity
- Date: July 31, 2024
- Location: FLOSSK Office
- Details:
- Presented milestones since 2009 to Ylli Bajraktari, CEO of the Special Competitive Studies Project.
- Key Achievements:
-● Hosting DebConf and FOSS4G international conferences.
-● Contributions to OpenStreetMap (local chapter since 2019).
-● Engaging over 100 contributors for Albanian Wikipedia since 2015.
-● Fostering innovation through hackathons.
-● Establishing an AI User-Group to develop Albanian language datasets.
+Date: July 31, 2024
+Location: FLOSSK Office
+Details:
 
-Mapathon – Mapping Kosovo
+FLOSSK presented its key achievements since 2009 to Ylli Bajraktari, CEO of the Special Competitive Studies Project.
+Highlights included hosting major international conferences like DebConf and FOSS4G, contributing to OpenStreetMap, and engaging hundreds of volunteers in local open-source initiatives such as the Albanian Wikipedia and AI datasets.
+Title: Mapathon – Mapping Kosovo
 Type: Activity
- Date: July 31, 2024
- Location: Prishtina Hackerspace
- Details:
- Participants collaborated to map Kosovo locations via OpenStreetMap.
- Perks: Free food and drinks provided to attendees.
+Date: July 31, 2024
+Location: Prishtina Hackerspace
+Details:
 
-Summer Mapping Challenge Webinar
+Participants worked together to map various regions across Kosovo using OpenStreetMap, contributing to the development of accurate, up-to-date geospatial data for use in conservation and urban planning.
+The event included a social component, with free refreshments provided to attendees as a token of appreciation for their contributions.
+Title: Summer Mapping Challenge Webinar
 Type: Activity
- Date: July 22, 2024
- Location: Online
- Details:
- Focused on enhancing OpenStreetMap contributions with live demos, expert tips, and a Q&A session.
+Date: July 22, 2024
+Location: Online
+Details:
 
-Digital Cadastre of Hiking Trails
-Couldn't find photos
-
+A webinar designed to encourage more contributions to OpenStreetMap, featuring live demonstrations of mapping techniques and expert advice.
+Participants had the opportunity to ask questions and receive guidance on enhancing their OSM profiles while learning new tips for more effective mapping.
+Title: Digital Cadastre of Hiking Trails
 Type: Activity
- Date: June 11, 2024
- Location: Prishtina Hackerspace
- Speaker: Dott. Alessio Piccioli, President of the Operational Trail and Cartographic Structure of the Italian Alpine Club
- Topic: Leveraging OpenStreetMap for creating a digital cadastre of Kosovo’s hiking trails.
+Date: June 11, 2024
+Location: Prishtina Hackerspace
+Speaker: Dott. Alessio Piccioli, President of the Operational Trail and Cartographic Structure of the Italian Alpine Club
+Topic: Leveraging OpenStreetMap for creating a digital cadastre of Kosovo’s hiking trails.
+Details:
 
-Sustainability Hackathon
+The talk emphasized the role of OSM in creating digital records of Kosovo's hiking trails, aiding both conservation efforts and tourism development.
+Alessio discussed the importance of open-source mapping tools in preserving natural heritage and enhancing outdoor activities.
+Title: Sustainability Hackathon
 Type: Activity
- Date: May 23-25, 2024
- Location: ITP Prizren
- Organizers: FLOSSK, powered by IPKO Telecommunications
- Details:
- Participants formed teams to create sustainability-focused solutions using tools like sensors and Arduino kits.
- Features: Transport, accommodation, food, and prizes provided.
- Prizes:
-● 1st Place: €1500
-● 2nd Place: €800
-● 3rd Place: €600
+Date: May 23-25, 2024
+Location: ITP Prizren
+Organizers: FLOSSK, powered by IPKO Telecommunications
+Details:
 
-Digital Skills Festival
+The Sustainability Hackathon focused on developing tech solutions that addressed environmental issues, from waste management to energy efficiency.
+Participants used Arduino kits and sensor technology to build prototypes, with prizes awarded to the most innovative, practical solutions. The event promoted collaboration between environmentalists and tech enthusiasts.
+Title: Digital Skills Festival
 Type: Activity
- Date: May 25, 2024
- Location: ITP Prizren
- Organizers: ITP Prizren (supported by FLOSSK)
- Details:
- Theme: "Towards the Twin Transition in Kosovo."
- The event connected universities, businesses, and sponsors to promote digital transformation.
+Date: May 25, 2024
+Location: ITP Prizren
+Organizers: ITP Prizren (supported by FLOSSK)
+Details:
 
-Cybersecurity Conference: BSides Prishtina 2024
+This festival aimed to promote digital transformation in Kosovo, featuring workshops, talks, and networking opportunities for students, businesses, and professionals.
+Key discussions included advancing digital literacy, introducing AI into education, and fostering innovation in digital industries across the country.
+Title: Cybersecurity Conference: BSides Prishtina 2024
 Type: Activity
- Date: May 3-4, 2024
- Location: University of Prishtina (Blue Administrative Building)
- Details:
- The third annual BSides conference featured:
-● 23 speakers.
-● 4 workshops.
-● A CTF competition.
+Date: May 3-4, 2024
+Location: University of Prishtina (Blue Administrative Building)
+Details:
 
-OpenStreetMap Mapathon
+BSides Prishtina brought together top experts in cybersecurity to discuss emerging threats and solutions.
+The conference featured 23 speakers, 4 hands-on workshops, and a Capture the Flag (CTF) competition, with sessions focusing on ethical hacking, network security, and digital privacy.
+Title: OpenStreetMap Mapathon
 Type: Activity
- Date: February 24, 2024
- Location: Prishtina Hackerspace
- Details:
- Geography students mapped Kosovo's protected areas to aid conservation.
- Support: Funded by KUSA with backing from the U.S. Embassy in Prishtina.
+Date: February 24, 2024
+Location: Prishtina Hackerspace
+Details:
 
-
+Geography students from local universities mapped Kosovo's protected areas, contributing to conservation efforts by enhancing the visibility of ecologically significant regions.
+The event was funded by KUSA with support from the U.S. Embassy, highlighting the importance of geospatial data for environmental protection and policy-making.

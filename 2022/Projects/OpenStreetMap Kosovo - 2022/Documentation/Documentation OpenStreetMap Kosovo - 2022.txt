@@ -19,9 +19,6 @@ Key activities:
 ● Regional GeoTaggers Gathering: From August 23rd to 27th, a Regional GeoTaggers gathering was held to foster regional cooperation and inspire collective action towards enhancing open-source mapping efforts.
 ● Mapathon Series: The team organized a series of mapathons throughout the year, including in Suhareke, Obiliq, Prizren, Rahovec, Vushtrri, Hani i Elezit, and others, providing opportunities for local communities to contribute to OpenStreetMap.
 
-Photos:
-
-
 
 Beneficiaries:
 The project positively impacted local communities and participants, who gained valuable hands-on experience in GIS and geospatial mapping through workshops and mapathons. It also strengthened the OpenStreetMap Kosovo and Albania communities by enhancing their mapping capabilities, while fostering collaboration and knowledge-sharing within the broader geospatial community.
@@ -33,10 +30,6 @@ Partners:
 ● SPACE SYNTAKS
 ● High Schools part of ASSET project by KEC
 ● Open Labs Albania
-
-
-Budget:
-€9,860.00 
 
 Project duration:
 Throughout 2022

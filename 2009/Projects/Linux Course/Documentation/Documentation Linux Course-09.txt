@@ -1,21 +1,13 @@
-Documentation
-Title: Linux Course
-Project Description:
-In February 2009, FLOSSK co-founder James Michael DuPont initiated a free GNU/Linux course in Pristina at the offices of IDI (Information Development Initiative). The course aimed to promote the adoption and understanding of Free and Open Source Software among young people in Kosovo. Although the course was paused due to DuPont's departure, some of his students resumed teaching the curriculum in June 2009, continuing the initiative and spreading the knowledge gained.
-Activities:
-Key activities:
-? Conducted a free GNU/Linux training program for young learners.
-? Delivered hands-on sessions to familiarize participants with Free Software tools.
-? Transitioned teaching responsibilities to students of the course after the departure of the original instructor.
-? Encouraged community-led continuation of Free Software education.
-Photos:
+Linux Course
 
-Beneficiaries:
-The course directly benefited young learners in Kosovo by equipping them with foundational knowledge of Free Software and GNU/Linux, fostering their skills in technology and open-source development.
-Partners:
-? Information Development Initiative (IDI)
-Budget:
-€
-Project Duration:
-February - June 2009
+Project Duration: February - June 2009
+
+Project Description: In February 2009, FLOSSK co-founder James Michael DuPont initiated a free GNU/Linux course in Pristina at the offices of IDI (Information Development Initiative). The course aimed to promote the adoption and understanding of Free and Open Source Software among young people in Kosovo. Although the course was paused due to DuPont's departure, some of his students resumed teaching the curriculum in June 2009, continuing the initiative and spreading the knowledge gained.
+
+Activities: Key activities: Conducted a free GNU/Linux training program for young learners. Delivered hands-on sessions to familiarize participants with Free Software tools. Transitioned teaching responsibilities to students of the course after the departure of the original instructor. Encouraged community-led continuation of Free Software education. 
+
+Beneficiaries: The course directly benefited young learners in Kosovo by equipping them with foundational knowledge of Free Software and GNU/Linux, fostering their skills in technology and open-source development.
+
+Partners: Information Development Initiative (IDI)
+
 

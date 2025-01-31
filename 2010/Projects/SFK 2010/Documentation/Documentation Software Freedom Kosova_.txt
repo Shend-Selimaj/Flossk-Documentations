@@ -1,25 +1,21 @@
-Documentation
-Title:
 Software Freedom Kosova 2010 (SFK10)
-Project Description:
-On September 25-26, 2010, the second edition of the Software Freedom Kosova (SFK10) conference was held in Prishtina. Organized by FLOSS Kosovo and the Faculty of Electrical Engineering and Computer (FIEK) at the University of Pristina, SFK10 built upon the success of the previous year's event. The conference featured 24 lectures delivered by experts from Kosovo, the region, and around the world, focusing on Free and Open Source Software (FOSS). Notable speakers included Leon Shiman, Rob Savoye, Mikel Maron, and Peter Salus. The event was made possible by nearly a year of planning by the organizing committee and support from local and international partners.
-Activities:
-Key activities:
-? Organized 24 lectures by local, regional, and international FOSS experts.
-? Hosted keynote presentations by notable speakers, including Leon Shiman, Rob Savoye, Mikel Maron, and Peter Salus.
-? Facilitated networking and collaboration opportunities for participants.
-? Promoted Free and Open Source Software through discussions and presentations.
-Photos:
-[Photo gallery link not provided]
-Beneficiaries:
-The event directly benefited FOSS enthusiasts, students, developers, and academics by providing a platform for learning, networking, and sharing expertise in Free and Open Source Software.
-Partners:
-? Office of the Prime Minister
-? Rrota
-? PC World Albania
-? OpenWorld.al
-Budget:
-€
-Project Duration:
-September 25-26, 2010
+Project Description
+On September 25-26, 2010, the second edition of the Software Freedom Kosova (SFK10) conference was held in Prishtina. Organized by FLOSS Kosovo and the Faculty of Electrical Engineering and Computer Science (FIEK) at the University of Pristina, SFK10 built upon the success of the previous yearâ€™s event. The conference featured 24 lectures delivered by experts from Kosovo, the region, and around the world, focusing on Free and Open Source Software (FOSS).
 
+Notable speakers included Leon Shiman, Rob Savoye, Mikel Maron, and Peter Salus. The event was made possible through nearly a year of planning by the organizing committee, with support from local and international partners.
+
+Activities
+Organized 24 lectures by local, regional, and international FOSS experts.
+Hosted keynote presentations by Leon Shiman, Rob Savoye, Mikel Maron, and Peter Salus.
+Facilitated networking and collaboration opportunities for participants.
+Promoted Free and Open Source Software through discussions and presentations.
+Beneficiaries
+The event directly benefited FOSS enthusiasts, students, developers, and academics by providing a platform for learning, networking, and sharing expertise in Free and Open Source Software.
+
+Partners
+Office of the Prime Minister
+Rrota
+PC World Albania
+OpenWorld.al
+Project Duration
+September 25-26, 2010

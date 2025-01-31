@@ -1,46 +1,19 @@
-﻿Documentation 
+﻿Title: Hackathon (IPKO)
 
-
-Title: Hackathon (IPKO)
-	
-Project description:
-The "IoT for Green Transition" hackathon at ITP Prizren brought together students from AUK Kosovo, FIEK, and UPZ to tackle environmental challenges through IoT technology. This event fostered innovation, skill development, and networking among young tech enthusiasts, encouraging sustainable tech solutions to drive the green transition in Kosovo.
-
-
+Project Description:
+The "IoT for Green Transition" hackathon at ITP Prizren brought together students from AUK Kosovo, FIEK, and UPZ to address environmental challenges using IoT technology. This event promoted innovation, skill development, and networking among young tech enthusiasts, fostering sustainable tech solutions to drive Kosovo's green transition.
 
 Activities:
-Key activities: 
+Key activities:
 
-● Coordinating with University Partners to align on goals and event structure.
-● Opening Ceremony introducing the event’s objectives, followed by team formation.
-● Mentorship Sessions featuring Enis Hyseni, Besfort Guri, and Lis Luci, who guided participants.
-● Coding Sessions for intensive project work, with scheduled breaks for meals.
-● Presentation & Judging where teams showcased their solutions, evaluated on innovation, impact, and feasibility.
-● Award Ceremony recognizing the top three teams with prizes of €1500, €800, and €600.
-Photos:
-
-
+Coordinated with university partners to align on event goals
+Opening ceremony followed by team formation
+Mentorship sessions with Enis Hyseni, Besfort Guri, and Lis Luci
+Coding sessions and scheduled breaks
+Presentation and judging of solutions based on innovation, impact, and feasibility
+Award ceremony recognizing the top three teams with prizes (€1500, €800, €600)
 Beneficiaries:
-The hackathon provided over 100 students with the opportunity to showcase their skills, learn from experts, and collaborate on solutions for environmental sustainability.
+Over 100 students showcased their skills, learned from experts, and collaborated on environmental sustainability solutions.
 
-
-Partners:
-
-● N/A
-
-Budget:
-€10,000
-
-Project duration:
+Project Duration:
 May 23rd - May 25th, 2024
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-

@@ -1,48 +1,21 @@
-﻿Documentation 
+﻿Acquiring Environmental Data for Climate and Air Quality Awareness - “Sensor Stations”
 
+Project Duration: January 1, 2020 - October 31, 2020
 
-Title: Acquiring Environmental Data for Climate and Air Quality Awareness - “Sensor Stations”
-	
-Project description:
-
-This project aimed to increase environmental awareness among high school students and the general public through the collection and analysis of environmental data. The initiative involved building sensor stations to monitor weather and air quality across various towns in Kosovo. High school students were empowered to engage in citizen science and data collection. The project included hardware construction, data analysis, and public outreach. The results were shared at an international conference, promoting open data and encouraging further environmental initiatives. The project involved students from multiple towns including Prishtina, Ferizaj, Gjilan, and others, and aimed to foster a well-informed and proactive community regarding environmental issues.
+Project Description:
+This project aimed to increase environmental awareness by building sensor stations to monitor weather and air quality across Kosovo. High school students participated in data collection and analysis, fostering engagement in citizen science. The findings were shared at an international conference, promoting open data and environmental monitoring initiatives.
 
 Activities:
-Key activities: 
 
-● Built sensor stations for monitoring weather and air quality across participating schools in Kosovo.
-● Conducted hands-on training for students and teachers on constructing and using the sensors.
-● Collected environmental data on air quality and weather patterns from various locations in Kosovo.
-● Published data on open platforms for public access and use in environmental research.
-● Presented project findings at an international conference to promote citizen science and open data
-
-
-Photos:
-
-
-
+Built sensor stations for monitoring weather and air quality in participating schools.
+Provided hands-on training for students and teachers on sensor construction and usage.
+Collected and published environmental data on open platforms for public access.
+Presented findings at an international conference to advocate for citizen science.
 Beneficiaries:
 
-High school students in Kosovo were the primary beneficiaries, gaining valuable experience in building sensors, analyzing environmental data, and engaging in citizen science. Teachers also benefited by utilizing the hardware and data for classroom demonstrations. The project’s open data, made available to the public, allowed researchers and the wider community to access real-time environmental information. This initiative helped raise awareness about climate change, air quality, and the importance of environmental monitoring, fostering a better-informed public.
-
-
+High school students gained experience in sensor technology and environmental data analysis.
+Teachers integrated real-time data into classroom learning.
+Researchers and the public accessed open data for environmental awareness and research.
 Partners:
 
-● Kosovo Education Center (KEC): Facilitated the involvement of schools across Kosovo, helping to implement the project at the local level.
-
-Budget:
-€14,667
-
-Project duration:
-January 1, 2020 - October 31, 2020
-
-
-
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Kosovo Education Center (KEC) – Facilitated school involvement and project implementation.

@@ -1,43 +1,14 @@
-﻿Documentation 
-
-
-Title: Ministria e Inovacionit dhe Ndërmarrësisë
-	
-Project description:
-Aplikimi i Internet of Things në Praktikë. Zhvillimi i prototipeve inovative ne: Smart Farm, Smart Home, Elektronika ne Shkolla
-Activities:
-Key activities: 
-
-    • Researching and purchasing materials.
-    • Promoting and selecting participants and schools.
-    • Implementing training sessions and developing products for each component.
-    • Supporting training for teachers and students.
-
-
-Photos:
-
-
-Beneficiaries:
-
-A total of 127 individuals benefited, including participants in Smart Home and Smart Farm, teachers from partner schools, and students who attended the training sessions.
-
-Partners:
-
-    • N/A
-
-Budget:
-€15,000
-
-Project duration:
-
+﻿Ministria e Inovacionit dhe Ndërmarrësisë
+Project Duration:
 Dec 2018 - June 2019
 
+Project Description:
+The Internet of Things in Practice project focused on the development of innovative prototypes in the areas of Smart Farm, Smart Home, and Electronics in Schools. The project aimed to foster the practical application of IoT technologies by engaging schools and participants in the development and implementation of IoT solutions.
 
-
-
-
-
-This document is FLOSSK intellectual property - Do not share without authorization from FLOSSK.
-
-
-
+Key Activities:
+Researching and purchasing materials for prototypes.
+Promoting and selecting participants and schools.
+Implementing training sessions and developing products for each component.
+Supporting training for teachers and students.
+Beneficiaries:
+A total of 127 individuals benefited, including participants in Smart Home and Smart Farm, teachers from partner schools, and students who attended the training sessions.
